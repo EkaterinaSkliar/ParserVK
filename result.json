@@ -1,0 +1,2750 @@
+{
+    "response": {
+        "count": 1059,
+        "items": [
+            {
+                "id": 147572,
+                "from_id": -149861500,
+                "owner_id": -149861500,
+                "date": 1655379331,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Дорогие игроки! \n \nМы рады представить вам новый способ оплаты внутриигровых товаров. Теперь вы можете дарить подарки своим близким! \n \nПодробнее о системе подарков вы можете прочитать в статье ниже. \n \nОбратите внимание, что в течение ближайших 72 часов возможны проблемы с доступом к сервису в связи с запуском бета-версии. \n \n#AgeOfMagic",
+                "is_pinned": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1655379331,
+                            "id": 457261007,
+                            "owner_id": -149861500,
+                            "access_key": "f1c0ab220dbf9f5768",
+                            "post_id": 147572,
+                            "sizes": [
+                                {
+                                    "height": 75,
+                                    "type": "s",
+                                    "width": 75,
+                                    "url": "https://sun7-14.userapi.com/impg/c0CcLnx9ERMRauQL5Rj9xhE_O_O_zgqr0OAOEg/Fma8KXD7GQQ.jpg?size=75x75&quality=95&sign=4e88f62578c756b071f20eef31d166ef&c_uniq_tag=SmTRgCZrd3uS-9h_mQNLAr5LsNvnSJlnu7gogEpRaSU&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "m",
+                                    "width": 130,
+                                    "url": "https://sun7-14.userapi.com/impg/c0CcLnx9ERMRauQL5Rj9xhE_O_O_zgqr0OAOEg/Fma8KXD7GQQ.jpg?size=130x130&quality=95&sign=e6cfb050579cdd9a46e8f2e87a438adf&c_uniq_tag=cPI72quvU44P4QrxY4LQ5DGHmNB-ZAPrw5nJluGBx5A&type=album"
+                                },
+                                {
+                                    "height": 604,
+                                    "type": "x",
+                                    "width": 604,
+                                    "url": "https://sun7-14.userapi.com/impg/c0CcLnx9ERMRauQL5Rj9xhE_O_O_zgqr0OAOEg/Fma8KXD7GQQ.jpg?size=604x604&quality=95&sign=1584ed85b818de1fada7897a28642c6a&c_uniq_tag=qW7UeHlCK-xr1ZkZKO5kHK6YpFXW2ytlasJHg7hAGX4&type=album"
+                                },
+                                {
+                                    "height": 807,
+                                    "type": "y",
+                                    "width": 807,
+                                    "url": "https://sun7-14.userapi.com/impg/c0CcLnx9ERMRauQL5Rj9xhE_O_O_zgqr0OAOEg/Fma8KXD7GQQ.jpg?size=807x807&quality=95&sign=387d00c361e33892a48183d4a96fa98f&c_uniq_tag=41uXRJlW5zGYNZ_jN59KVy7t9k6pMijXvqgKQAanXy4&type=album"
+                                },
+                                {
+                                    "height": 1080,
+                                    "type": "z",
+                                    "width": 1080,
+                                    "url": "https://sun7-14.userapi.com/impg/c0CcLnx9ERMRauQL5Rj9xhE_O_O_zgqr0OAOEg/Fma8KXD7GQQ.jpg?size=1080x1080&quality=95&sign=6fac201aa3f554fdd94da9cfcec4f9f3&c_uniq_tag=PgBXF2Ig42YCWOda_11A8lZZ1G0ZYAJy0Jxua5ehiDA&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "o",
+                                    "width": 130,
+                                    "url": "https://sun7-14.userapi.com/impg/c0CcLnx9ERMRauQL5Rj9xhE_O_O_zgqr0OAOEg/Fma8KXD7GQQ.jpg?size=130x130&quality=95&sign=e6cfb050579cdd9a46e8f2e87a438adf&c_uniq_tag=cPI72quvU44P4QrxY4LQ5DGHmNB-ZAPrw5nJluGBx5A&type=album"
+                                },
+                                {
+                                    "height": 200,
+                                    "type": "p",
+                                    "width": 200,
+                                    "url": "https://sun7-14.userapi.com/impg/c0CcLnx9ERMRauQL5Rj9xhE_O_O_zgqr0OAOEg/Fma8KXD7GQQ.jpg?size=200x200&quality=95&sign=4b581d288b971357413321721c824c8f&c_uniq_tag=BqoH-tgXGisp507UTjOjqK8TA3_bVfp2leUrBl02r80&type=album"
+                                },
+                                {
+                                    "height": 320,
+                                    "type": "q",
+                                    "width": 320,
+                                    "url": "https://sun7-14.userapi.com/impg/c0CcLnx9ERMRauQL5Rj9xhE_O_O_zgqr0OAOEg/Fma8KXD7GQQ.jpg?size=320x320&quality=95&sign=a9e221c87827ea8945949ea77d4c69ec&c_uniq_tag=w7AZP011HHlftVajipNTUvAx3TzygGDk-zA5rJB0yEc&type=album"
+                                },
+                                {
+                                    "height": 510,
+                                    "type": "r",
+                                    "width": 510,
+                                    "url": "https://sun7-14.userapi.com/impg/c0CcLnx9ERMRauQL5Rj9xhE_O_O_zgqr0OAOEg/Fma8KXD7GQQ.jpg?size=510x510&quality=95&sign=4596bbf5387d6d40a4a2a5fa840d0d69&c_uniq_tag=_pu6LI0wLIIDCEd2kuKgkTrOMDemrW1tHZMM9R-8qFw&type=album"
+                                }
+                            ],
+                            "text": "",
+                            "user_id": 100,
+                            "has_tags": false
+                        }
+                    },
+                    {
+                        "type": "link",
+                        "link": {
+                            "url": "https://m.vk.com/@ageofmagicgame-podarki-eto-prosto-i-priyatno",
+                            "button": {
+                                "action": {
+                                    "type": "open_url",
+                                    "target": "internal",
+                                    "url": "https://m.vk.com/@ageofmagicgame-podarki-eto-prosto-i-priyatno"
+                                },
+                                "title": "Read"
+                            },
+                            "description": "Article",
+                            "photo": {
+                                "album_id": -66,
+                                "date": 1652944280,
+                                "id": 457260866,
+                                "owner_id": -149861500,
+                                "sizes": [
+                                    {
+                                        "height": 81,
+                                        "type": "m",
+                                        "width": 130,
+                                        "url": "https://sun7-16.userapi.com/impg/Kxcs7y8S9SRMJjhB1DRJVxqOgayjOug1BlKb9Q/XtXVC8XcMcY.jpg?size=130x81&quality=96&sign=0766c6b71b56b48b91dca7a321bb912c&c_uniq_tag=M9v_84R6jl-lozAdW03xZyPbg7R-3zBQ3jXUFdDfwT8&type=album"
+                                    },
+                                    {
+                                        "height": 87,
+                                        "type": "o",
+                                        "width": 130,
+                                        "url": "https://sun7-16.userapi.com/impg/Kxcs7y8S9SRMJjhB1DRJVxqOgayjOug1BlKb9Q/XtXVC8XcMcY.jpg?size=130x87&quality=96&crop=63,0,1793,1200&sign=e709a06f21bdc2e55d9a57df99efa09b&c_uniq_tag=ZWyYGAg8fSmzndpcNIsiiF3EAGNw_cMBuAPbMNRH3vU&type=album"
+                                    },
+                                    {
+                                        "height": 133,
+                                        "type": "p",
+                                        "width": 200,
+                                        "url": "https://sun7-16.userapi.com/impg/Kxcs7y8S9SRMJjhB1DRJVxqOgayjOug1BlKb9Q/XtXVC8XcMcY.jpg?size=200x133&quality=96&crop=57,0,1805,1200&sign=fc56225f6e7917e639a570f84a281812&c_uniq_tag=cr-ihyM9XQm7Ex0ApknQM5rMu8cUel57dJHE-sRK7l8&type=album"
+                                    },
+                                    {
+                                        "height": 213,
+                                        "type": "q",
+                                        "width": 320,
+                                        "url": "https://sun7-16.userapi.com/impg/Kxcs7y8S9SRMJjhB1DRJVxqOgayjOug1BlKb9Q/XtXVC8XcMcY.jpg?size=320x213&quality=96&crop=58,0,1803,1200&sign=3a7b407e5deb446262125c4e8e61693b&c_uniq_tag=h1Bp2G2nuV2engkIVKdL0u09_trDsTPTkiwahJ_h28k&type=album"
+                                    },
+                                    {
+                                        "height": 340,
+                                        "type": "r",
+                                        "width": 510,
+                                        "url": "https://sun7-16.userapi.com/impg/Kxcs7y8S9SRMJjhB1DRJVxqOgayjOug1BlKb9Q/XtXVC8XcMcY.jpg?size=510x340&quality=96&crop=60,0,1800,1200&sign=bebd226622a05e7ed836b4a041a715fa&c_uniq_tag=anVNiyomOpwAtdcxk3slVhFCTxpC4qrzw7lzGhG4BfA&type=album"
+                                    },
+                                    {
+                                        "height": 47,
+                                        "type": "s",
+                                        "width": 75,
+                                        "url": "https://sun7-16.userapi.com/impg/Kxcs7y8S9SRMJjhB1DRJVxqOgayjOug1BlKb9Q/XtXVC8XcMcY.jpg?size=75x47&quality=96&sign=7421dec45da57661ee81375df87eedb7&c_uniq_tag=dA-AUTrewsj2B80ZBJvOwFd9ySV5TqRAYtyCkwcvwJg&type=album"
+                                    },
+                                    {
+                                        "height": 1200,
+                                        "type": "w",
+                                        "width": 1920,
+                                        "url": "https://sun7-16.userapi.com/impg/Kxcs7y8S9SRMJjhB1DRJVxqOgayjOug1BlKb9Q/XtXVC8XcMcY.jpg?size=1920x1200&quality=96&sign=53693984c81340b5141d455f440b5ce5&c_uniq_tag=xW1GR4nO_CQyJgD_up3cvYE6pS9pBtxyZNR4xSg5glc&type=album"
+                                    },
+                                    {
+                                        "height": 377,
+                                        "type": "x",
+                                        "width": 604,
+                                        "url": "https://sun7-16.userapi.com/impg/Kxcs7y8S9SRMJjhB1DRJVxqOgayjOug1BlKb9Q/XtXVC8XcMcY.jpg?size=604x377&quality=96&sign=f857fdc1dc3932bbbddb425889111c97&c_uniq_tag=TXID5vWDcBfo3J12pMIZ-ZzB2CXbi4eCc0wRikgvnWc&type=album"
+                                    },
+                                    {
+                                        "height": 504,
+                                        "type": "y",
+                                        "width": 807,
+                                        "url": "https://sun7-16.userapi.com/impg/Kxcs7y8S9SRMJjhB1DRJVxqOgayjOug1BlKb9Q/XtXVC8XcMcY.jpg?size=807x504&quality=96&sign=63536644a3f5c582159dc059cb7f1063&c_uniq_tag=7n66tDSt-q3tvk71ev9sTBcnSygV_hRSEuuGA2oMs2A&type=album"
+                                    },
+                                    {
+                                        "height": 800,
+                                        "type": "z",
+                                        "width": 1280,
+                                        "url": "https://sun7-16.userapi.com/impg/Kxcs7y8S9SRMJjhB1DRJVxqOgayjOug1BlKb9Q/XtXVC8XcMcY.jpg?size=1280x800&quality=96&sign=5037d1bd79f421e72e44a60e199bc2ff&c_uniq_tag=50AsXbalWtSnfp0ocqt6eMf_nljnXGSHpf-Ym_x_hLk&type=album"
+                                    }
+                                ],
+                                "text": "",
+                                "user_id": 100,
+                                "has_tags": false
+                            },
+                            "title": "Подарки — это просто и приятно!"
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "can_post": 1,
+                    "count": 380,
+                    "groups_can_post": true
+                },
+                "likes": {
+                    "can_like": 1,
+                    "count": 73,
+                    "user_likes": 0,
+                    "can_publish": 1
+                },
+                "reposts": {
+                    "count": 18,
+                    "user_reposted": 0
+                },
+                "views": {
+                    "count": 46405
+                },
+                "donut": {
+                    "is_donut": false
+                },
+                "short_text_rate": 0.8,
+                "carousel_offset": 0,
+                "hash": "ulKSlN9toqhgY9U2uw"
+            },
+            {
+                "id": 155664,
+                "from_id": -149861500,
+                "owner_id": -149861500,
+                "date": 1668675604,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Воинственная Бринхильда - Боец Ближнего Боя из фракции Рыцари Совета. Она способна наносить большое количество критического урона и отлично проявляет себя в синергии с Зигфридом. Получить Бринхильду можно в Призыве Светлых Героев уже сейчас. Также осколки Бринхильды будут доступны в событии «Искажённый Свет». \n \n Призыв Светлых Героев: \n💫 В первой карточке вы гарантированно получите от 1 до 5 осколков Бринхильды. \n💫 Шанс на выпадение Бринхильды в 5 раз выше по сравнению с шансом на выпадение других героев. \n💫 Открыв сундук определённое количество раз, вы гарантированно получите до 3 Чародейских Звёзд. \n🎁 Со стартом Призыва Светлых Героев вы получите от нас подарок - 3000 Рун Призыва! \n\nСобытие «Искажённый Свет»: \n⭐ Уникальное событие длительностью 14 дней. \n⭐ По 15 миссий в Обычном и Героическом режимах. В миссиях события вы будете получать Руны Призыва, а также по 1 осколку Бринхильды за первое прохождение. \n⭐ Для прохождения Обычного режима вам понадобятся: Герои Света и Тьмы, Дети Леса, Отряд Злодеев. \n⭐ Для прохождения Героического режима потребуются: Кобольды, Демоны, Нежить Арехона, Высшие Эльфы, Темные Эльфы, Отряд Возмездия, Драконий Народ, Орки, Боссы, Воины Света, Гоблины, Отступники, Союзники Роланда. \n🎁 Со стартом события - Календарь в подарок! \n\nБольше информации об условиях участия в Призыве Светлых Героев и уникальном событии «Искажённый Свет» вы найдете в игре. 🤓\n\nГотовы побороться за красавицу Бринхильду? Поделитесь своим мнением о герое в комментариях.\n\n#AgeofMagic #Бринхильда #Событие",
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1668672596,
+                            "id": 457262055,
+                            "owner_id": -149861500,
+                            "access_key": "af71ef666188cfdbe9",
+                            "post_id": 155664,
+                            "sizes": [
+                                {
+                                    "height": 75,
+                                    "type": "s",
+                                    "width": 75,
+                                    "url": "https://sun9-87.userapi.com/impg/3VMIi0JFlB9m5n6-aUiAq3PJ40zAMlEPoFnYQA/vuLCASyaf28.jpg?size=75x75&quality=95&sign=6541c6f1f96211a941df0459c4320c3c&c_uniq_tag=BGpocV1RwdB6MV6A-Qf5pfYAOZUFSnTxBDblao_3pVU&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "m",
+                                    "width": 130,
+                                    "url": "https://sun9-87.userapi.com/impg/3VMIi0JFlB9m5n6-aUiAq3PJ40zAMlEPoFnYQA/vuLCASyaf28.jpg?size=130x130&quality=95&sign=6c44a86da0a8789f351aec32084bf511&c_uniq_tag=miaIAbJrhWI7mQDmmXZk6kxbnge4figqskl4esausx4&type=album"
+                                },
+                                {
+                                    "height": 604,
+                                    "type": "x",
+                                    "width": 604,
+                                    "url": "https://sun9-87.userapi.com/impg/3VMIi0JFlB9m5n6-aUiAq3PJ40zAMlEPoFnYQA/vuLCASyaf28.jpg?size=604x604&quality=95&sign=aaf9b5be3016d90e8e891926171e93ae&c_uniq_tag=35_ynFUmxOmPybd30Rv4usS5X64LQqlYVHJLXnyyPSE&type=album"
+                                },
+                                {
+                                    "height": 807,
+                                    "type": "y",
+                                    "width": 807,
+                                    "url": "https://sun9-87.userapi.com/impg/3VMIi0JFlB9m5n6-aUiAq3PJ40zAMlEPoFnYQA/vuLCASyaf28.jpg?size=807x807&quality=95&sign=2340b857ce0a03b56323fd4bc142ee91&c_uniq_tag=IGjbg93JsvafHQGVLQHRyWCk2yq-ukXHVa91rZGrPz4&type=album"
+                                },
+                                {
+                                    "height": 1080,
+                                    "type": "z",
+                                    "width": 1080,
+                                    "url": "https://sun9-87.userapi.com/impg/3VMIi0JFlB9m5n6-aUiAq3PJ40zAMlEPoFnYQA/vuLCASyaf28.jpg?size=1080x1080&quality=95&sign=b63be1a4249a3c2e6e3e30dcf76bab8f&c_uniq_tag=DRMDzVomhqjTA9rRjj7rHOJZxZKw1cdhaxhakFAaxcE&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "o",
+                                    "width": 130,
+                                    "url": "https://sun9-87.userapi.com/impg/3VMIi0JFlB9m5n6-aUiAq3PJ40zAMlEPoFnYQA/vuLCASyaf28.jpg?size=130x130&quality=95&sign=6c44a86da0a8789f351aec32084bf511&c_uniq_tag=miaIAbJrhWI7mQDmmXZk6kxbnge4figqskl4esausx4&type=album"
+                                },
+                                {
+                                    "height": 200,
+                                    "type": "p",
+                                    "width": 200,
+                                    "url": "https://sun9-87.userapi.com/impg/3VMIi0JFlB9m5n6-aUiAq3PJ40zAMlEPoFnYQA/vuLCASyaf28.jpg?size=200x200&quality=95&sign=4e8513ae57c1653d039286bbaf1c40fd&c_uniq_tag=j-Iaigx121TBmRfvN9Di1Cj9NIVcu9kcdPb0K1fvgHE&type=album"
+                                },
+                                {
+                                    "height": 320,
+                                    "type": "q",
+                                    "width": 320,
+                                    "url": "https://sun9-87.userapi.com/impg/3VMIi0JFlB9m5n6-aUiAq3PJ40zAMlEPoFnYQA/vuLCASyaf28.jpg?size=320x320&quality=95&sign=143e6967fe333587852737b58decdfd1&c_uniq_tag=5eM9xzcNVj6roCCnM2nObaTwboXhcDDMGG2sjtHeqiQ&type=album"
+                                },
+                                {
+                                    "height": 510,
+                                    "type": "r",
+                                    "width": 510,
+                                    "url": "https://sun9-87.userapi.com/impg/3VMIi0JFlB9m5n6-aUiAq3PJ40zAMlEPoFnYQA/vuLCASyaf28.jpg?size=510x510&quality=95&sign=c7b353fb40d49d56741fc89bfff5859a&c_uniq_tag=SS4FR5Y9zWBjz7TXwS2ydPVeJTp34426AQHtYlVwf9s&type=album"
+                                }
+                            ],
+                            "text": "",
+                            "user_id": 100,
+                            "has_tags": false
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "can_post": 1,
+                    "count": 31,
+                    "groups_can_post": true
+                },
+                "likes": {
+                    "can_like": 1,
+                    "count": 11,
+                    "user_likes": 0,
+                    "can_publish": 1
+                },
+                "reposts": {
+                    "count": 2,
+                    "user_reposted": 0
+                },
+                "views": {
+                    "count": 1179
+                },
+                "donut": {
+                    "is_donut": false
+                },
+                "short_text_rate": 0.8,
+                "hash": "HZ7hEVXDxkL5ubfxJA"
+            },
+            {
+                "id": 155646,
+                "from_id": -149861500,
+                "owner_id": -149861500,
+                "date": 1668605401,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Заснежень уже совсем скоро! ❄\n \nДля тех, кто вел себя в этом году чуть хуже, мы подготовили Облик для Семи Ножей из Праздничного Комплекта. \n \nВы можете получить этот Облик за достижение 100 уровня особой линейки следующего Магического Пропуска. \n \nДобавьте его в свою коллекцию и проследите, чтобы у него не получилось испортить наш праздник! \n \nНе забудьте поделиться своим мнением в комментариях! \n \n#AgeOfMagic #Skin #Update #Hero",
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1668603927,
+                            "id": 457262053,
+                            "owner_id": -149861500,
+                            "access_key": "90a676da88569b997c",
+                            "sizes": [
+                                {
+                                    "height": 75,
+                                    "type": "s",
+                                    "width": 75,
+                                    "url": "https://sun9-80.userapi.com/impg/0HSitXgHUw3O7jcKPaMdiZ5kjogXDbLtRw11zQ/PD4Q9eT9R-4.jpg?size=75x75&quality=95&sign=e37c36017e542a45fc6da1a1cc7ebd2e&c_uniq_tag=ni5OXnRJAZoiPviTuJQVs_b4qEkLRv2huFkR-qqqlSY&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "m",
+                                    "width": 130,
+                                    "url": "https://sun9-80.userapi.com/impg/0HSitXgHUw3O7jcKPaMdiZ5kjogXDbLtRw11zQ/PD4Q9eT9R-4.jpg?size=130x130&quality=95&sign=fd1b0a94185187f7ba06f3ebb77c4b81&c_uniq_tag=Ey4LwxSKhUpSZBuAumuGnbJPyYgk0z7UfrX-2m9tNfQ&type=album"
+                                },
+                                {
+                                    "height": 604,
+                                    "type": "x",
+                                    "width": 604,
+                                    "url": "https://sun9-80.userapi.com/impg/0HSitXgHUw3O7jcKPaMdiZ5kjogXDbLtRw11zQ/PD4Q9eT9R-4.jpg?size=604x604&quality=95&sign=2a74b17b90b8b52ef568eee303a31946&c_uniq_tag=CjaPrklvWicfA1rxr28SJnFRVotjfVpAo63DRPUNYk4&type=album"
+                                },
+                                {
+                                    "height": 807,
+                                    "type": "y",
+                                    "width": 807,
+                                    "url": "https://sun9-80.userapi.com/impg/0HSitXgHUw3O7jcKPaMdiZ5kjogXDbLtRw11zQ/PD4Q9eT9R-4.jpg?size=807x807&quality=95&sign=bfd66f3fd6e1841be6773f10e1fb936b&c_uniq_tag=PO9qWahRg05I8ta3fZefn5kS6IGano3SaWpQuudeqcA&type=album"
+                                },
+                                {
+                                    "height": 1080,
+                                    "type": "z",
+                                    "width": 1080,
+                                    "url": "https://sun9-80.userapi.com/impg/0HSitXgHUw3O7jcKPaMdiZ5kjogXDbLtRw11zQ/PD4Q9eT9R-4.jpg?size=1080x1080&quality=95&sign=9312d9602c01ee1b4b0a7981940078c5&c_uniq_tag=RUWuzNRnFwFdCtnzFqIe21R4fbKqTJEOA6mhQLgyZkY&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "o",
+                                    "width": 130,
+                                    "url": "https://sun9-80.userapi.com/impg/0HSitXgHUw3O7jcKPaMdiZ5kjogXDbLtRw11zQ/PD4Q9eT9R-4.jpg?size=130x130&quality=95&sign=fd1b0a94185187f7ba06f3ebb77c4b81&c_uniq_tag=Ey4LwxSKhUpSZBuAumuGnbJPyYgk0z7UfrX-2m9tNfQ&type=album"
+                                },
+                                {
+                                    "height": 200,
+                                    "type": "p",
+                                    "width": 200,
+                                    "url": "https://sun9-80.userapi.com/impg/0HSitXgHUw3O7jcKPaMdiZ5kjogXDbLtRw11zQ/PD4Q9eT9R-4.jpg?size=200x200&quality=95&sign=c60b9cd7a4aed3ef26e977b7013dfd04&c_uniq_tag=Xy7zi46xrbTPDTLMTSvf_kS6qEYqBalRFAyd_RBvl0Q&type=album"
+                                },
+                                {
+                                    "height": 320,
+                                    "type": "q",
+                                    "width": 320,
+                                    "url": "https://sun9-80.userapi.com/impg/0HSitXgHUw3O7jcKPaMdiZ5kjogXDbLtRw11zQ/PD4Q9eT9R-4.jpg?size=320x320&quality=95&sign=9039cf59a893e09af3afff362925dd26&c_uniq_tag=ie-VSfP9VnH_YEPKAF-jtyDNcU_p2GcZZ84oO-SutUs&type=album"
+                                },
+                                {
+                                    "height": 510,
+                                    "type": "r",
+                                    "width": 510,
+                                    "url": "https://sun9-80.userapi.com/impg/0HSitXgHUw3O7jcKPaMdiZ5kjogXDbLtRw11zQ/PD4Q9eT9R-4.jpg?size=510x510&quality=95&sign=a4019dd9b7d2f3b5980961c8c5b1f948&c_uniq_tag=TwGHCjQSjFsuuY4b3YE1xh-SAoj185San2i3rIYi3NM&type=album"
+                                }
+                            ],
+                            "text": "",
+                            "user_id": 100,
+                            "has_tags": false
+                        }
+                    },
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1668603927,
+                            "id": 457262054,
+                            "owner_id": -149861500,
+                            "access_key": "40fd620be96d59ec1f",
+                            "sizes": [
+                                {
+                                    "height": 75,
+                                    "type": "s",
+                                    "width": 75,
+                                    "url": "https://sun9-49.userapi.com/impg/nLmLvF_VEP0rhdl4qilDPu3wns3QxgTVeTqJBw/6HAsoEntuxk.jpg?size=75x75&quality=95&sign=d6707221c0b2166fc7b430a12c02e909&c_uniq_tag=NyjGP7o6uEBGxb0HhkjzTCHdIqOca9OewxrScn_FIug&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "m",
+                                    "width": 130,
+                                    "url": "https://sun9-49.userapi.com/impg/nLmLvF_VEP0rhdl4qilDPu3wns3QxgTVeTqJBw/6HAsoEntuxk.jpg?size=130x130&quality=95&sign=894fabff30008c51e4096a0175e8ad17&c_uniq_tag=XhiXpXpjrXNQPynrV7QgEalDgpAZkkMzcdFfpevvWt0&type=album"
+                                },
+                                {
+                                    "height": 604,
+                                    "type": "x",
+                                    "width": 604,
+                                    "url": "https://sun9-49.userapi.com/impg/nLmLvF_VEP0rhdl4qilDPu3wns3QxgTVeTqJBw/6HAsoEntuxk.jpg?size=604x604&quality=95&sign=56ff9c5153f4805fc009f38f8bab2195&c_uniq_tag=QNiWVZ9sIOqXTp7t0KJK2-x7808F075PvNFrtmbUDHo&type=album"
+                                },
+                                {
+                                    "height": 807,
+                                    "type": "y",
+                                    "width": 807,
+                                    "url": "https://sun9-49.userapi.com/impg/nLmLvF_VEP0rhdl4qilDPu3wns3QxgTVeTqJBw/6HAsoEntuxk.jpg?size=807x807&quality=95&sign=165def4f20eea962276eb624f536e41f&c_uniq_tag=fAlgf9eDUfiLdULtV02X3JtoUosdV9bHVJ_LEBXGwMo&type=album"
+                                },
+                                {
+                                    "height": 1080,
+                                    "type": "z",
+                                    "width": 1080,
+                                    "url": "https://sun9-49.userapi.com/impg/nLmLvF_VEP0rhdl4qilDPu3wns3QxgTVeTqJBw/6HAsoEntuxk.jpg?size=1080x1080&quality=95&sign=5d77e22d2ad4ebe847b9cf532ffebd8b&c_uniq_tag=VqYmRoPfOiQCi2hQJ3sbKUSZ1bDVqpIzLWjPd9861PY&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "o",
+                                    "width": 130,
+                                    "url": "https://sun9-49.userapi.com/impg/nLmLvF_VEP0rhdl4qilDPu3wns3QxgTVeTqJBw/6HAsoEntuxk.jpg?size=130x130&quality=95&sign=894fabff30008c51e4096a0175e8ad17&c_uniq_tag=XhiXpXpjrXNQPynrV7QgEalDgpAZkkMzcdFfpevvWt0&type=album"
+                                },
+                                {
+                                    "height": 200,
+                                    "type": "p",
+                                    "width": 200,
+                                    "url": "https://sun9-49.userapi.com/impg/nLmLvF_VEP0rhdl4qilDPu3wns3QxgTVeTqJBw/6HAsoEntuxk.jpg?size=200x200&quality=95&sign=cb1bdfc29dca0989698eb8ff08e81fea&c_uniq_tag=efSiyleXbp0A05EAX3P4Tx10xo0dlkKBQwJFa14ZFnc&type=album"
+                                },
+                                {
+                                    "height": 320,
+                                    "type": "q",
+                                    "width": 320,
+                                    "url": "https://sun9-49.userapi.com/impg/nLmLvF_VEP0rhdl4qilDPu3wns3QxgTVeTqJBw/6HAsoEntuxk.jpg?size=320x320&quality=95&sign=f805d9b315e0512cec2f06a96a4db3fc&c_uniq_tag=HMcW3THRgmyyGIV-8kAWmUHVD1NsWWVnLNn0M53ObYs&type=album"
+                                },
+                                {
+                                    "height": 510,
+                                    "type": "r",
+                                    "width": 510,
+                                    "url": "https://sun9-49.userapi.com/impg/nLmLvF_VEP0rhdl4qilDPu3wns3QxgTVeTqJBw/6HAsoEntuxk.jpg?size=510x510&quality=95&sign=6afb36ebb69d279c000fa60996f20f51&c_uniq_tag=WYgm2pQvDAIjAUL_dRb1HSLJGW0JqOHPcInrOo_wPWo&type=album"
+                                }
+                            ],
+                            "text": "",
+                            "user_id": 100,
+                            "has_tags": false
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "can_post": 1,
+                    "count": 11,
+                    "groups_can_post": true
+                },
+                "likes": {
+                    "can_like": 1,
+                    "count": 12,
+                    "user_likes": 0,
+                    "can_publish": 1
+                },
+                "reposts": {
+                    "count": 0,
+                    "user_reposted": 0
+                },
+                "views": {
+                    "count": 2688
+                },
+                "donut": {
+                    "is_donut": false
+                },
+                "short_text_rate": 0.8,
+                "carousel_offset": 0,
+                "hash": "82XrFwKvw3cWV3q_jA"
+            },
+            {
+                "id": 155571,
+                "from_id": -149861500,
+                "owner_id": -149861500,
+                "date": 1668432601,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Хо-хо-хо! Заснежень близко! ❄\n \nВы хорошо себя вели в этом году? Если да, то Арген из Праздничного Комплекта с радостью принесет вам желанные подарки! \n \nСегодня мы предлагаем вам посмотреть на новый Облик для Аргена, получить который можно будет за 25 Монет Пропуска в следующем Магическом Пропуске. \n \nКак вам этот Облик из Праздничного Комплекта? Вы готовы к Заснежню? Делитесь своим мнением в комментариях! \n \n#AgeOfMagic #Skin #Update #Hero",
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1668431738,
+                            "id": 457262034,
+                            "owner_id": -149861500,
+                            "access_key": "168a7d790f6908c867",
+                            "sizes": [
+                                {
+                                    "height": 75,
+                                    "type": "s",
+                                    "width": 75,
+                                    "url": "https://sun9-42.userapi.com/impg/kPTDjD47THftNgDoZhdkbtVfkdJnSjLp3a31yQ/IOux82IY0ME.jpg?size=75x75&quality=95&sign=5237dda3c6b559bf259aedc879d405e7&c_uniq_tag=ZBbmpKRmqa_6Sf-dqjtbArs0f4QBBj4lRZz9z_47ToM&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "m",
+                                    "width": 130,
+                                    "url": "https://sun9-42.userapi.com/impg/kPTDjD47THftNgDoZhdkbtVfkdJnSjLp3a31yQ/IOux82IY0ME.jpg?size=130x130&quality=95&sign=030a9008c9676b74adcb89d85005d895&c_uniq_tag=HrfND4ZHEhba7Lk3ADK-usU2bSCAzJyHRm9rzMnwt0E&type=album"
+                                },
+                                {
+                                    "height": 604,
+                                    "type": "x",
+                                    "width": 604,
+                                    "url": "https://sun9-42.userapi.com/impg/kPTDjD47THftNgDoZhdkbtVfkdJnSjLp3a31yQ/IOux82IY0ME.jpg?size=604x604&quality=95&sign=49e1a76a0e07ca6733ec88c92da20a9c&c_uniq_tag=bexDo0enAwMqERE2llFrDzJREjR-_ZgSdVoaOZ6393w&type=album"
+                                },
+                                {
+                                    "height": 807,
+                                    "type": "y",
+                                    "width": 807,
+                                    "url": "https://sun9-42.userapi.com/impg/kPTDjD47THftNgDoZhdkbtVfkdJnSjLp3a31yQ/IOux82IY0ME.jpg?size=807x807&quality=95&sign=43ef15af7f554b2d761ea5262c0d78d1&c_uniq_tag=WyHtnD4XmKZzlf25Ept0ocfo4MFS1z9dSf6aR8zkx98&type=album"
+                                },
+                                {
+                                    "height": 1080,
+                                    "type": "z",
+                                    "width": 1080,
+                                    "url": "https://sun9-42.userapi.com/impg/kPTDjD47THftNgDoZhdkbtVfkdJnSjLp3a31yQ/IOux82IY0ME.jpg?size=1080x1080&quality=95&sign=ff2bb48ea7dde3d4cb12419869d2b8c7&c_uniq_tag=uMqAPtU01QZ8GyOoIN3B6aQOxj2FtnhQB53qrJRSZeE&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "o",
+                                    "width": 130,
+                                    "url": "https://sun9-42.userapi.com/impg/kPTDjD47THftNgDoZhdkbtVfkdJnSjLp3a31yQ/IOux82IY0ME.jpg?size=130x130&quality=95&sign=030a9008c9676b74adcb89d85005d895&c_uniq_tag=HrfND4ZHEhba7Lk3ADK-usU2bSCAzJyHRm9rzMnwt0E&type=album"
+                                },
+                                {
+                                    "height": 200,
+                                    "type": "p",
+                                    "width": 200,
+                                    "url": "https://sun9-42.userapi.com/impg/kPTDjD47THftNgDoZhdkbtVfkdJnSjLp3a31yQ/IOux82IY0ME.jpg?size=200x200&quality=95&sign=2feb924ba3003c6dc75a9cf76311ac91&c_uniq_tag=sAp0ChuECtaYHivH_2HvajH03xsG_D2lZxINn9WzYnc&type=album"
+                                },
+                                {
+                                    "height": 320,
+                                    "type": "q",
+                                    "width": 320,
+                                    "url": "https://sun9-42.userapi.com/impg/kPTDjD47THftNgDoZhdkbtVfkdJnSjLp3a31yQ/IOux82IY0ME.jpg?size=320x320&quality=95&sign=55ed138b758f164ad2ebe5f37c2bc85c&c_uniq_tag=pyLnk-wbKjbFwUXkY5_mnFUd_GWSGU-zFOssW7Te_L4&type=album"
+                                },
+                                {
+                                    "height": 510,
+                                    "type": "r",
+                                    "width": 510,
+                                    "url": "https://sun9-42.userapi.com/impg/kPTDjD47THftNgDoZhdkbtVfkdJnSjLp3a31yQ/IOux82IY0ME.jpg?size=510x510&quality=95&sign=2e072fd5f9920008cd114d7117352da8&c_uniq_tag=8MTK_2yWeaOt3R14ewVZGL8ScPRPV7K2rs2xJGLo-ss&type=album"
+                                }
+                            ],
+                            "text": "",
+                            "user_id": 100,
+                            "has_tags": false
+                        }
+                    },
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1668431738,
+                            "id": 457262035,
+                            "owner_id": -149861500,
+                            "access_key": "2d5335e02b6f5b817d",
+                            "sizes": [
+                                {
+                                    "height": 75,
+                                    "type": "s",
+                                    "width": 75,
+                                    "url": "https://sun9-77.userapi.com/impg/lfZjIvb1aIpuFuIcP-aYDU7JAzyJb8--MNf4qw/v37brBoRFes.jpg?size=75x75&quality=95&sign=56f385ef975db05e34dfc279965874d7&c_uniq_tag=DhsMcHAds3ku_euffuNTjHgmihl0QrRYXO_ApkBGJWc&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "m",
+                                    "width": 130,
+                                    "url": "https://sun9-77.userapi.com/impg/lfZjIvb1aIpuFuIcP-aYDU7JAzyJb8--MNf4qw/v37brBoRFes.jpg?size=130x130&quality=95&sign=cf3bedabd41efcc9db37c2650a9d2bef&c_uniq_tag=92NbQlHu1xxfFY3U2JwZJTcmYRR7BCAOLwYRaYrdFso&type=album"
+                                },
+                                {
+                                    "height": 604,
+                                    "type": "x",
+                                    "width": 604,
+                                    "url": "https://sun9-77.userapi.com/impg/lfZjIvb1aIpuFuIcP-aYDU7JAzyJb8--MNf4qw/v37brBoRFes.jpg?size=604x604&quality=95&sign=08f1b59a6bc6b4c83b2362db0ce0b624&c_uniq_tag=sUqWYKVIlLdhgDNglVU8tE7Soo4WGMsAP5DGYRqpCTw&type=album"
+                                },
+                                {
+                                    "height": 807,
+                                    "type": "y",
+                                    "width": 807,
+                                    "url": "https://sun9-77.userapi.com/impg/lfZjIvb1aIpuFuIcP-aYDU7JAzyJb8--MNf4qw/v37brBoRFes.jpg?size=807x807&quality=95&sign=b9fd511626e2a83cfc1e4f6bc5b376f3&c_uniq_tag=NGdqUtmM351QeJ0Ofew5QaB5v_suF35IZ01kiCd2hZs&type=album"
+                                },
+                                {
+                                    "height": 1080,
+                                    "type": "z",
+                                    "width": 1080,
+                                    "url": "https://sun9-77.userapi.com/impg/lfZjIvb1aIpuFuIcP-aYDU7JAzyJb8--MNf4qw/v37brBoRFes.jpg?size=1080x1080&quality=95&sign=bc4fdaf9731d481eea70b44732688f04&c_uniq_tag=lSMcREOmLR89GMz37in1NJSadmulU49cyOnUDEm1Bgc&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "o",
+                                    "width": 130,
+                                    "url": "https://sun9-77.userapi.com/impg/lfZjIvb1aIpuFuIcP-aYDU7JAzyJb8--MNf4qw/v37brBoRFes.jpg?size=130x130&quality=95&sign=cf3bedabd41efcc9db37c2650a9d2bef&c_uniq_tag=92NbQlHu1xxfFY3U2JwZJTcmYRR7BCAOLwYRaYrdFso&type=album"
+                                },
+                                {
+                                    "height": 200,
+                                    "type": "p",
+                                    "width": 200,
+                                    "url": "https://sun9-77.userapi.com/impg/lfZjIvb1aIpuFuIcP-aYDU7JAzyJb8--MNf4qw/v37brBoRFes.jpg?size=200x200&quality=95&sign=fc041f31cb4dcc02f2c6cee38881224d&c_uniq_tag=d05mMCz_a3fUROmdjIo3EzN95HfSLTkl0w2QWVyoIog&type=album"
+                                },
+                                {
+                                    "height": 320,
+                                    "type": "q",
+                                    "width": 320,
+                                    "url": "https://sun9-77.userapi.com/impg/lfZjIvb1aIpuFuIcP-aYDU7JAzyJb8--MNf4qw/v37brBoRFes.jpg?size=320x320&quality=95&sign=71c05dbb5a5651727e07612575ec5919&c_uniq_tag=TZLDJ4tvLxpuMML4zNR7YpAWmS7f5gMsoESa8_-Slgg&type=album"
+                                },
+                                {
+                                    "height": 510,
+                                    "type": "r",
+                                    "width": 510,
+                                    "url": "https://sun9-77.userapi.com/impg/lfZjIvb1aIpuFuIcP-aYDU7JAzyJb8--MNf4qw/v37brBoRFes.jpg?size=510x510&quality=95&sign=3407937bdfa245abe262a88ed1ca7e05&c_uniq_tag=nB44CjbQqZaze_Yuz9N7N0DddNtQXkNkWuPtOuxdZwY&type=album"
+                                }
+                            ],
+                            "text": "",
+                            "user_id": 100,
+                            "has_tags": false
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "can_post": 1,
+                    "count": 62,
+                    "groups_can_post": true
+                },
+                "likes": {
+                    "can_like": 1,
+                    "count": 18,
+                    "user_likes": 0,
+                    "can_publish": 1
+                },
+                "reposts": {
+                    "count": 1,
+                    "user_reposted": 0
+                },
+                "views": {
+                    "count": 5036
+                },
+                "donut": {
+                    "is_donut": false
+                },
+                "short_text_rate": 0.8,
+                "carousel_offset": 0,
+                "hash": "B7CAbss_M-tnnvQNCA"
+            },
+            {
+                "id": 155522,
+                "from_id": -149861500,
+                "owner_id": -149861500,
+                "date": 1668173400,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Дорогие Игроки! 💜\n \nМы регулярно работаем над улучшением технической инфраструктуры для повышения стабильности игры. Сейчас мы проводим очередной этап обновления инфраструктуры, который потребует остановки игры на несколько часов. \n \nМы постарались выбрать время, когда наименьшее количество игроков будет затронуто остановкой игры – 14 ноября 08:00 (МСК). \n \nРекомендуем вам дождаться завершения технических работ для продолжения игры. \n \nСпасибо за понимание и приносим извинения за возможные неудобства!",
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1668171915,
+                            "id": 457262025,
+                            "owner_id": -149861500,
+                            "access_key": "f03242603a7866a3b5",
+                            "post_id": 155522,
+                            "sizes": [
+                                {
+                                    "height": 75,
+                                    "type": "s",
+                                    "width": 75,
+                                    "url": "https://sun7-6.userapi.com/impg/ngfKHzAflhKvAPsFj6EGgKekTGvVSMMrQiiaPQ/M-JTahr7ZPI.jpg?size=75x75&quality=95&sign=d22aed40ddda5733ff023ec18f8f2b35&c_uniq_tag=WyMCCl9xYnCFNYU-bTs9NdAJlGSF7rgFTzGCnJVmxsU&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "m",
+                                    "width": 130,
+                                    "url": "https://sun7-6.userapi.com/impg/ngfKHzAflhKvAPsFj6EGgKekTGvVSMMrQiiaPQ/M-JTahr7ZPI.jpg?size=130x130&quality=95&sign=f373c32a2454d8b67dc4a67c0cf96467&c_uniq_tag=W7qQz5oxSJc_5BL0Ki4iSCdcysC4fixMeMLE9-kyBtg&type=album"
+                                },
+                                {
+                                    "height": 604,
+                                    "type": "x",
+                                    "width": 604,
+                                    "url": "https://sun7-6.userapi.com/impg/ngfKHzAflhKvAPsFj6EGgKekTGvVSMMrQiiaPQ/M-JTahr7ZPI.jpg?size=604x604&quality=95&sign=4fee7c2ea64ba51212ad1d8b42d47ec5&c_uniq_tag=mz3PKmEvIA5CgLsS4_rLHYrWVy7tA-9wlS50RoJHbyk&type=album"
+                                },
+                                {
+                                    "height": 807,
+                                    "type": "y",
+                                    "width": 807,
+                                    "url": "https://sun7-6.userapi.com/impg/ngfKHzAflhKvAPsFj6EGgKekTGvVSMMrQiiaPQ/M-JTahr7ZPI.jpg?size=807x807&quality=95&sign=04a02edb9b1b6d08a9be7bccc858599b&c_uniq_tag=ru3Vn7GJoKWJKJChEuhx142X6KNKLqz25j8VCDpovE8&type=album"
+                                },
+                                {
+                                    "height": 1080,
+                                    "type": "z",
+                                    "width": 1080,
+                                    "url": "https://sun7-6.userapi.com/impg/ngfKHzAflhKvAPsFj6EGgKekTGvVSMMrQiiaPQ/M-JTahr7ZPI.jpg?size=1080x1080&quality=95&sign=d64124ef9515abdf990c73ce2cdf4a3a&c_uniq_tag=vk8GLDSs-0S0gWhETJe7_rDFzgf7rSexYcEMoDJYpmI&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "o",
+                                    "width": 130,
+                                    "url": "https://sun7-6.userapi.com/impg/ngfKHzAflhKvAPsFj6EGgKekTGvVSMMrQiiaPQ/M-JTahr7ZPI.jpg?size=130x130&quality=95&sign=f373c32a2454d8b67dc4a67c0cf96467&c_uniq_tag=W7qQz5oxSJc_5BL0Ki4iSCdcysC4fixMeMLE9-kyBtg&type=album"
+                                },
+                                {
+                                    "height": 200,
+                                    "type": "p",
+                                    "width": 200,
+                                    "url": "https://sun7-6.userapi.com/impg/ngfKHzAflhKvAPsFj6EGgKekTGvVSMMrQiiaPQ/M-JTahr7ZPI.jpg?size=200x200&quality=95&sign=ab56c24a509eafd773613345631bdcde&c_uniq_tag=snYl-FdmzzC7WjsprdvvtIXKF8ZAIHz5MT6VwL1-SVA&type=album"
+                                },
+                                {
+                                    "height": 320,
+                                    "type": "q",
+                                    "width": 320,
+                                    "url": "https://sun7-6.userapi.com/impg/ngfKHzAflhKvAPsFj6EGgKekTGvVSMMrQiiaPQ/M-JTahr7ZPI.jpg?size=320x320&quality=95&sign=487468fff220190a7379edb5a3ca7434&c_uniq_tag=wOe-NcgXn7hItLzblmDjCuxP0vT7gX-OEzAYaCdugQI&type=album"
+                                },
+                                {
+                                    "height": 510,
+                                    "type": "r",
+                                    "width": 510,
+                                    "url": "https://sun7-6.userapi.com/impg/ngfKHzAflhKvAPsFj6EGgKekTGvVSMMrQiiaPQ/M-JTahr7ZPI.jpg?size=510x510&quality=95&sign=cd38dc18488905d4def3a65c298a6aa9&c_uniq_tag=mfqm4qqZwwr4RKm-iIl1OkIcRRUqqDPiMde_g2h7kc4&type=album"
+                                }
+                            ],
+                            "text": "",
+                            "user_id": 100,
+                            "has_tags": false
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "can_post": 1,
+                    "count": 33,
+                    "groups_can_post": true
+                },
+                "likes": {
+                    "can_like": 1,
+                    "count": 19,
+                    "user_likes": 0,
+                    "can_publish": 1
+                },
+                "reposts": {
+                    "count": 1,
+                    "user_reposted": 0
+                },
+                "views": {
+                    "count": 5938
+                },
+                "donut": {
+                    "is_donut": false
+                },
+                "short_text_rate": 0.8,
+                "edited": 1668186996,
+                "hash": "LILKjz8pc1jg-py2qA"
+            },
+            {
+                "id": 155473,
+                "from_id": -149861500,
+                "owner_id": -149861500,
+                "date": 1668072601,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Под пушистыми лапами тихо поскрипывает снег, но роскошный голубой хвост Лисицы заметет оставленные следы - никто не должен знать, где прячется Нора. \n \nДолгие годы после Катаклизма, самая юная из выживших Ведьм, Нора, скрывается в ледяных пустынях осколка Варваров и восстанавливает магические силы, чтобы вернуть себе прежний облик. Но обо всем по порядку. \n \nНеобычные магические способности Норы стали проявляться уже в самом раннем возрасте. Малютка могла управлять потоками воды, используя их для своих детских шалостей. После совместных бурных игр никто из ее друзей не возвращался домой сухим. С такими способностями без специального обучения Зверолюдям не совладать, а значит Норе надлежало покинуть Лисий Табор и отправиться в Академию Ведьм. \n \nВ Академии Нора превзошла все ожидания своих наставников, научившись не только подчинять себе воду, но и превращать ее в лед. Магия настолько заинтересовала неугомонную Нору, что она изучила все книги в Библиотеке, и даже подружилась с одной из Пяти Великих Книг Магии. Именно с ее помощью Нора нашла способ полностью перевоплощаться в лисицу, выходя из облика Зверолюдей. Нора не была бы Норой, если бы не использовала это перевоплощение для секретных ночных вылазок. Ну кто услышит, как ловкая лиса бесшумно выскальзывает за ворота Академии? \n\nУмение перевоплощаться помогло Норе во время закрытия Портала в Обитель Хаоса. Однако, потратив почти все свои магические силы, юная Ведьма не смогла вернуться в привычный облик, на многие годы оставаясь Морозной Лисой. А может не захотела, ведь быть Ведьмой - значит помнить предательство Лилит… \n\n#AgeofMagic #Лор #МорознаяЛиса #Ведьма #КовенВедьм",
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1668071471,
+                            "id": 457262020,
+                            "owner_id": -149861500,
+                            "access_key": "7f1a61bf5539fafc52",
+                            "post_id": 155473,
+                            "sizes": [
+                                {
+                                    "height": 35,
+                                    "type": "s",
+                                    "width": 75,
+                                    "url": "https://sun9-26.userapi.com/impg/JFYKDDj7uI7MpFjGoLPIgHm-40mDdht8Xcw7fA/KXWC_5HF2XA.jpg?size=75x35&quality=95&sign=29b77f4629d87173889b8f8f21f27923&c_uniq_tag=OtORqRcKSl2DknF_Na6ula0dicrpOVtPXDnKqNDh1pQ&type=album"
+                                },
+                                {
+                                    "height": 61,
+                                    "type": "m",
+                                    "width": 130,
+                                    "url": "https://sun9-26.userapi.com/impg/JFYKDDj7uI7MpFjGoLPIgHm-40mDdht8Xcw7fA/KXWC_5HF2XA.jpg?size=130x61&quality=95&sign=ef8ec351695d3e13de84beea5fe6e41c&c_uniq_tag=kWatHBDoarbDbD7nF468sdKE9V6_pxYtmzXbkW9sCiA&type=album"
+                                },
+                                {
+                                    "height": 282,
+                                    "type": "x",
+                                    "width": 604,
+                                    "url": "https://sun9-26.userapi.com/impg/JFYKDDj7uI7MpFjGoLPIgHm-40mDdht8Xcw7fA/KXWC_5HF2XA.jpg?size=604x282&quality=95&sign=50e9257defb384e2cc28c07ce043a3fd&c_uniq_tag=Mc2-3fj2aAwT97I1cWezxdXP5XotYb3q8wFaP5EKxAM&type=album"
+                                },
+                                {
+                                    "height": 376,
+                                    "type": "y",
+                                    "width": 807,
+                                    "url": "https://sun9-26.userapi.com/impg/JFYKDDj7uI7MpFjGoLPIgHm-40mDdht8Xcw7fA/KXWC_5HF2XA.jpg?size=807x376&quality=95&sign=9de1309f94ad38139985660745a16b3b&c_uniq_tag=RkY0i0MlFHDu-o8QTOflMtVij03yRlQmHLygJmZxEgM&type=album"
+                                },
+                                {
+                                    "height": 597,
+                                    "type": "z",
+                                    "width": 1280,
+                                    "url": "https://sun9-26.userapi.com/impg/JFYKDDj7uI7MpFjGoLPIgHm-40mDdht8Xcw7fA/KXWC_5HF2XA.jpg?size=1280x597&quality=95&sign=39a1e46b23bc66f40936a1885cdd4f4e&c_uniq_tag=6p6ORhgAqjEdPXJZOinnqV7cVMEa4GxwJv-3Lkg7Obw&type=album"
+                                },
+                                {
+                                    "height": 1194,
+                                    "type": "w",
+                                    "width": 2560,
+                                    "url": "https://sun9-26.userapi.com/impg/JFYKDDj7uI7MpFjGoLPIgHm-40mDdht8Xcw7fA/KXWC_5HF2XA.jpg?size=2560x1194&quality=95&sign=b7b32bda50f3d7acdb8594ee2a47817a&c_uniq_tag=TwuJvah7qdXHMg3GKV4WlpSxrV-kjZONLgjsXdS9HFE&type=album"
+                                },
+                                {
+                                    "height": 87,
+                                    "type": "o",
+                                    "width": 130,
+                                    "url": "https://sun9-26.userapi.com/impg/JFYKDDj7uI7MpFjGoLPIgHm-40mDdht8Xcw7fA/KXWC_5HF2XA.jpg?size=130x87&quality=95&crop=388,0,1784,1194&sign=f410e50f74c4d55d4a5dbc8b32e1b835&c_uniq_tag=jBd7XvCZyNjwgHq_gKV3SdaoAvMJjIavXvYLFwG3TvU&type=album"
+                                },
+                                {
+                                    "height": 133,
+                                    "type": "p",
+                                    "width": 200,
+                                    "url": "https://sun9-26.userapi.com/impg/JFYKDDj7uI7MpFjGoLPIgHm-40mDdht8Xcw7fA/KXWC_5HF2XA.jpg?size=200x133&quality=95&crop=382,0,1795,1194&sign=91a0bb9a66cd5299f26731a7ac054215&c_uniq_tag=QPtc-p3NNYhzNhrI6lN1MiLlyq0T373Bw43DzadjsNs&type=album"
+                                },
+                                {
+                                    "height": 213,
+                                    "type": "q",
+                                    "width": 320,
+                                    "url": "https://sun9-26.userapi.com/impg/JFYKDDj7uI7MpFjGoLPIgHm-40mDdht8Xcw7fA/KXWC_5HF2XA.jpg?size=320x213&quality=95&crop=383,0,1794,1194&sign=c598a399c2da2aa3d73d10834b771f43&c_uniq_tag=_PDhJWQSN9PVbto4Wijw8cMmAcXLJ517RTqD5LZZoLc&type=album"
+                                },
+                                {
+                                    "height": 340,
+                                    "type": "r",
+                                    "width": 510,
+                                    "url": "https://sun9-26.userapi.com/impg/JFYKDDj7uI7MpFjGoLPIgHm-40mDdht8Xcw7fA/KXWC_5HF2XA.jpg?size=510x340&quality=95&crop=384,0,1791,1194&sign=6187672c773087d1cd87a86dcd9b3e66&c_uniq_tag=GuiOqk_JEEbOZSTVgd_1kW8017Im2r7JXyVqW3QGkKg&type=album"
+                                }
+                            ],
+                            "text": "",
+                            "user_id": 100,
+                            "has_tags": false
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "can_post": 1,
+                    "count": 50,
+                    "groups_can_post": true
+                },
+                "likes": {
+                    "can_like": 1,
+                    "count": 18,
+                    "user_likes": 0,
+                    "can_publish": 1
+                },
+                "reposts": {
+                    "count": 2,
+                    "user_reposted": 0
+                },
+                "views": {
+                    "count": 8974
+                },
+                "donut": {
+                    "is_donut": false
+                },
+                "short_text_rate": 0.8,
+                "hash": "kTnW0JaIHvRkBXKi3A"
+            },
+            {
+                "id": 155438,
+                "from_id": -149861500,
+                "owner_id": -149861500,
+                "date": 1667984405,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Встречайте третий сезон Героического Пропуска! 💜\n \nПри прохождении всех этапов вы разблокируете нового Героя, Волнну, на 5 Золотых Звёзд и 4 Чародейские звезды! \n \nПриобрести Героический Пропуск можно в магазине подарков: https://www.ageofmagic.game/ru-RU/ \n \nВолнна является Стрелком из фракции Драконий народ. Она способна не только наносить урон, но и умело контролировать противников через замедление, ослабление и повышение шанса промаха. \n \n🗓 Даты \n \nТретий сезон начинается 10 ноября в 12:00 (МСК) и завершится 24 ноября в 12:00 (МСК). \n \n🔥 Наполнение \n \nГероический Пропуск состоит из 50 уровней. Награды распределены по двум линейкам – Стандартной и Премиальной. \n \nСтандартная линейка наград доступна бесплатно вместе с запуском Героического Пропуска. \n \nРазблокировка премиальной линейки наград активирует бонус +50% к опыту Пропуска. Бонус действует с момента разблокировки линейки и вплоть до завершения Пропуска. \n \n⚡ Стандартная линейка наград: 55 осколков Волнны, 1 Чародейская Звезда для Волнны, 15 Серебряных Жетонов, 5 Золотых Жетонов, 500 единиц Золота, 25 Магических Монет, 2 000 Рун Индиго, 600 Энергии Кампании, 360 Энергии Долины Сокровищ, 1 500 000 Серебра, а также другие предметы, полезные для усиления Героев \n \n⚡Премиальная линейка наград: 120 осколков Волнны, 4 Чародейская Звезда для Волнны, 85 Серебряных Жетонов, 20 Золотых Жетонов, 2 000 единиц Золота, 25 Магических Монет, 840 Энергии Кампании, 420 Энергии Долины Сокровищ, 5 000 000 Серебра, и другие предметы для усиления и экипировки Героев \n \nПри завершении обеих линеек вы гарантированно получит Волнну с 5 Золотыми и 4 Чародейскими Звёздами! \n \n👀 Стоимость \n \nСтоимость разблокировки премиальной линейки наград составляет 9.99$ (обратите внимание, что платформы могут взимать дополнительную комиссию, которая зависит от региона, в котором вы играете). \n \nВолнна усилит отряд Драконьего народа и принесёт победу в сражениях. Не упустите возможность получить её! \n \n#AgeOfMagic #Герой #rpg #игра #Анонс #Сезон #Пропуск",
+                "attachments": [
+                    {
+                        "type": "video",
+                        "video": {
+                            "access_key": "fe46d4638cb2f8eea1",
+                            "can_comment": 0,
+                            "can_like": 1,
+                            "can_repost": 1,
+                            "can_subscribe": 1,
+                            "can_add_to_faves": 0,
+                            "can_add": 1,
+                            "comments": 0,
+                            "date": 1667982466,
+                            "description": "Встречайте третий сезон Героического Пропуска! \n\nПри прохождении всех этапов вы разблокируете нового Героя, Волнну, на 5 Золотых Звёзд и 4 Чародейские звезды!\n\nВолнна является Стрелком из фракции Драконий народ. Она способна не только наносить урон, но и умело контролировать противников через замедление, ослабление и повышение шанса промаха.\n\nДлительность – 14 дней. С 10 ноября 12:00 (МСК) по 24 ноября 12:00 (МСК).\n\nDiscord: https://discord.gg/ageofmagic\nInstagram: https://www.instagram.com/age_of_magic/\nVK: https://vk.com/ageofmagicgame\nTelegram: https://t.me/AgeOfMagicGame\n\n#ageofmagic #игры #герой #обзор #РПГ #рпгигры #играй",
+                            "duration": 83,
+                            "image": [
+                                {
+                                    "url": "https://sun7-13.userapi.com/GlSIB9N-jdF5L4Sbs4pwcx7kliRsrVkkeWlF3A/CrRVC7cfy-8.jpg",
+                                    "width": 130,
+                                    "height": 96,
+                                    "with_padding": 1
+                                },
+                                {
+                                    "url": "https://sun7-16.userapi.com/xSwz5v7LXtaMfaRA67DtyPllB7vz5vO_Z7zi1g/0kI2A0oQ6ZQ.jpg",
+                                    "width": 160,
+                                    "height": 120,
+                                    "with_padding": 1
+                                },
+                                {
+                                    "url": "https://sun7-14.userapi.com/0a1oT5UKtgo2oPaAWi0vy-VjQix__jgSSDi94Q/MSLg5HomrMU.jpg",
+                                    "width": 320,
+                                    "height": 240,
+                                    "with_padding": 1
+                                },
+                                {
+                                    "url": "https://sun7-9.userapi.com/wR7UbsewxiaT3xXHAfolzHXfDII9iI58E9dOsQ/Q6YkcHSP72g.jpg",
+                                    "width": 800,
+                                    "height": 450,
+                                    "with_padding": 1
+                                },
+                                {
+                                    "url": "https://sun7-13.userapi.com/L3s5CctHSX1xaTVEqI2E5ltZR1kmmZDfmZ38TA/XYjqww2L4kM.jpg",
+                                    "width": 1280,
+                                    "height": 720
+                                },
+                                {
+                                    "url": "https://sun7-16.userapi.com/0D1NYQs8IhqIgzp2sg42I8Gfa2PykdfJtL5IiA/IKAlytymeBw.jpg",
+                                    "width": 320,
+                                    "height": 180
+                                },
+                                {
+                                    "url": "https://sun7-16.userapi.com/QsgkYXwr-MB0AWoM-EV3Pa3h9h3-t6yxJh_8DQ/uCz3VxdNMec.jpg",
+                                    "width": 720,
+                                    "height": 405
+                                },
+                                {
+                                    "url": "https://sun7-8.userapi.com/YiFyNKQzQuAxf8Rc2sIq1nn4PVRZEc3TWtE8RA/N-fU2jOy7WQ.jpg",
+                                    "width": 1024,
+                                    "height": 576
+                                },
+                                {
+                                    "url": "https://sun7-16.userapi.com/-KNk7WlgEHWaGTg5YCbsLQ0dy1MIqg-kzD7rsA/jBSSY3_6MmY.jpg",
+                                    "width": 4096,
+                                    "height": 2304
+                                }
+                            ],
+                            "first_frame": [
+                                {
+                                    "url": "https://i.mycdn.me/getVideoPreview?id=3129325324920&idx=0&type=39&tkn=FP2D845mx1_ue1kMx7vDPy_dOtE&fn=vid_f",
+                                    "width": 720,
+                                    "height": 405
+                                },
+                                {
+                                    "url": "https://i.mycdn.me/getVideoPreview?id=3129325324920&idx=0&type=39&tkn=FP2D845mx1_ue1kMx7vDPy_dOtE&fn=vid_md",
+                                    "width": 480,
+                                    "height": 270
+                                },
+                                {
+                                    "url": "https://i.mycdn.me/getVideoPreview?id=3129325324920&idx=0&type=39&tkn=FP2D845mx1_ue1kMx7vDPy_dOtE&fn=vid_d",
+                                    "width": 240,
+                                    "height": 135
+                                },
+                                {
+                                    "url": "https://i.mycdn.me/getVideoPreview?id=3129325324920&idx=0&type=39&tkn=FP2D845mx1_ue1kMx7vDPy_dOtE&fn=vid_sm",
+                                    "width": 128,
+                                    "height": 72
+                                },
+                                {
+                                    "url": "https://i.mycdn.me/getVideoPreview?id=3129325324920&idx=0&type=39&tkn=FP2D845mx1_ue1kMx7vDPy_dOtE",
+                                    "width": 1280,
+                                    "height": 720
+                                },
+                                {
+                                    "url": "https://i.mycdn.me/getVideoPreview?id=3129325324920&idx=0&type=39&tkn=FP2D845mx1_ue1kMx7vDPy_dOtE&fn=vid_h",
+                                    "width": 960,
+                                    "height": 540
+                                },
+                                {
+                                    "url": "https://i.mycdn.me/getVideoPreview?id=3129325324920&idx=0&type=39&tkn=FP2D845mx1_ue1kMx7vDPy_dOtE",
+                                    "width": 1280,
+                                    "height": 720
+                                }
+                            ],
+                            "width": 1920,
+                            "height": 1080,
+                            "id": 456240302,
+                            "owner_id": -149861500,
+                            "title": "Героический Пропуск — 3 сезон!",
+                            "track_code": "video_94642decPwSpG6kk8hSUCm3fb-dx0MBQrf39Qn6SMCPLDlcDWtgFKLIbqC36fZQKaNsD60Tm8mSdzs1weuVRT6cORi5r7A",
+                            "type": "video",
+                            "views": 3675
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "can_post": 1,
+                    "count": 15,
+                    "groups_can_post": true
+                },
+                "likes": {
+                    "can_like": 1,
+                    "count": 24,
+                    "user_likes": 0,
+                    "can_publish": 1
+                },
+                "reposts": {
+                    "count": 0,
+                    "user_reposted": 0
+                },
+                "views": {
+                    "count": 3212
+                },
+                "donut": {
+                    "is_donut": false
+                },
+                "short_text_rate": 0.8,
+                "hash": "yJ1kBkYi_A4q-w_Wzw"
+            },
+            {
+                "id": 155385,
+                "from_id": -149861500,
+                "owner_id": -149861500,
+                "date": 1667914201,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Бринхильда является Бойцом Ближнего Боя и принадлежит к фракции Рыцари Совета. Этот Герой способен наносить большое количество критического урона и отлично проявляет себя в синергии с Зигфридом.\n\n🤓 Подробнее об умениях Бринхильды: https://vk.com/@ageofmagicgame-brinhilda-sposobnosti\n\n⭐ Получить Бринхильду можно во время события «Искажённый Свет».\n\nКак вы оцениваете умения Бринхильды? Невероятная сила, не так ли?\nПоделитесь своим мнением с нами в комментариях!\n\n#AgeOfMagic #Герой #rpg #игра #Анонс",
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1667913205,
+                            "id": 457262004,
+                            "owner_id": -149861500,
+                            "access_key": "b4a7474c6f24e63f10",
+                            "sizes": [
+                                {
+                                    "height": 75,
+                                    "type": "s",
+                                    "width": 75,
+                                    "url": "https://sun7-6.userapi.com/impg/TidbiEVGlgEOnTOaOJTP37NXFKiIhMdi83YV0Q/tSQzC1gTTjU.jpg?size=75x75&quality=95&sign=f7c65ed9bc52e0cf427c311d87c4f6b6&c_uniq_tag=RRTo5tK39DhZazOS9vyN1zaKqKJhUj3T3RNK9LsMZmA&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "m",
+                                    "width": 130,
+                                    "url": "https://sun7-6.userapi.com/impg/TidbiEVGlgEOnTOaOJTP37NXFKiIhMdi83YV0Q/tSQzC1gTTjU.jpg?size=130x130&quality=95&sign=1184d47cf2322d723169f66a0dfe6c78&c_uniq_tag=s6NQrqqjJIu8UbDrkg8ffEg8Q7V6NKjfmb0WPK-dAr4&type=album"
+                                },
+                                {
+                                    "height": 604,
+                                    "type": "x",
+                                    "width": 604,
+                                    "url": "https://sun7-6.userapi.com/impg/TidbiEVGlgEOnTOaOJTP37NXFKiIhMdi83YV0Q/tSQzC1gTTjU.jpg?size=604x604&quality=95&sign=da2f7ebc3134d1c4b5994708fbbbf9aa&c_uniq_tag=59auQzY6fNzBb71BQFh-x0SuegUAsyKYA1Q89Lfs1Ps&type=album"
+                                },
+                                {
+                                    "height": 807,
+                                    "type": "y",
+                                    "width": 807,
+                                    "url": "https://sun7-6.userapi.com/impg/TidbiEVGlgEOnTOaOJTP37NXFKiIhMdi83YV0Q/tSQzC1gTTjU.jpg?size=807x807&quality=95&sign=68da70c7dc3c4d0d270cf2d2ecc47684&c_uniq_tag=MnLGb_yMqogE0s1ca6W3wepfHtMs2cp0GT9qMm2wDq8&type=album"
+                                },
+                                {
+                                    "height": 1280,
+                                    "type": "z",
+                                    "width": 1280,
+                                    "url": "https://sun7-6.userapi.com/impg/TidbiEVGlgEOnTOaOJTP37NXFKiIhMdi83YV0Q/tSQzC1gTTjU.jpg?size=1280x1280&quality=95&sign=b1379452c98afb9afa590120115f7bc8&c_uniq_tag=Hkw_qlyJSVbG31o57GpD286s_M_PRzs8GwUpIHjzbdo&type=album"
+                                },
+                                {
+                                    "height": 2500,
+                                    "type": "w",
+                                    "width": 2500,
+                                    "url": "https://sun7-6.userapi.com/impg/TidbiEVGlgEOnTOaOJTP37NXFKiIhMdi83YV0Q/tSQzC1gTTjU.jpg?size=2500x2500&quality=95&sign=818e16bb4ab1884d7c5c90fe85eb67b2&c_uniq_tag=OruZV98-lpN9qcT1DXiM2dEeBZwXYbQGZpHDyXTv9zE&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "o",
+                                    "width": 130,
+                                    "url": "https://sun7-6.userapi.com/impg/TidbiEVGlgEOnTOaOJTP37NXFKiIhMdi83YV0Q/tSQzC1gTTjU.jpg?size=130x130&quality=95&sign=1184d47cf2322d723169f66a0dfe6c78&c_uniq_tag=s6NQrqqjJIu8UbDrkg8ffEg8Q7V6NKjfmb0WPK-dAr4&type=album"
+                                },
+                                {
+                                    "height": 200,
+                                    "type": "p",
+                                    "width": 200,
+                                    "url": "https://sun7-6.userapi.com/impg/TidbiEVGlgEOnTOaOJTP37NXFKiIhMdi83YV0Q/tSQzC1gTTjU.jpg?size=200x200&quality=95&sign=ad22a4773e891e5acc837cd4c658aab7&c_uniq_tag=HwvbdvBKptxs4e9mLCOJn6UsLW3Id6W7KbnQTEkZmWs&type=album"
+                                },
+                                {
+                                    "height": 320,
+                                    "type": "q",
+                                    "width": 320,
+                                    "url": "https://sun7-6.userapi.com/impg/TidbiEVGlgEOnTOaOJTP37NXFKiIhMdi83YV0Q/tSQzC1gTTjU.jpg?size=320x320&quality=95&sign=5b7172193c6d7e8f1eb8f1f7237990eb&c_uniq_tag=1JgHvwCbMJk9RcwPq66BBQdwpoOiS1gMqGXiQApB8lw&type=album"
+                                },
+                                {
+                                    "height": 510,
+                                    "type": "r",
+                                    "width": 510,
+                                    "url": "https://sun7-6.userapi.com/impg/TidbiEVGlgEOnTOaOJTP37NXFKiIhMdi83YV0Q/tSQzC1gTTjU.jpg?size=510x510&quality=95&sign=0509aab322754d0deee9cdf2d6097e2a&c_uniq_tag=D27NHdhB9XH2vKF7Nz7UtyY8uCp_eonotNAfmW1sY90&type=album"
+                                }
+                            ],
+                            "text": "",
+                            "user_id": 100,
+                            "has_tags": false
+                        }
+                    },
+                    {
+                        "type": "link",
+                        "link": {
+                            "url": "https://m.vk.com/@ageofmagicgame-brinhilda-sposobnosti",
+                            "button": {
+                                "action": {
+                                    "type": "open_url",
+                                    "target": "internal",
+                                    "url": "https://m.vk.com/@ageofmagicgame-brinhilda-sposobnosti"
+                                },
+                                "title": "Read"
+                            },
+                            "description": "Article",
+                            "photo": {
+                                "album_id": -66,
+                                "date": 1667912760,
+                                "id": 457261997,
+                                "owner_id": -149861500,
+                                "sizes": [
+                                    {
+                                        "height": 75,
+                                        "type": "s",
+                                        "width": 75,
+                                        "url": "https://sun9-7.userapi.com/impg/SuDf1C5u-GMpOW_tf8fk0dKSm3bVZn7XKbP1HA/AYrmLKmjRZg.jpg?size=75x75&quality=96&sign=b90782850a409957357f3b864f4a704c&c_uniq_tag=wawbRo7W_VP9mA-b6ciHJytzzjkgez-_KfdsHyK0uC0&type=album"
+                                    },
+                                    {
+                                        "height": 130,
+                                        "type": "m",
+                                        "width": 130,
+                                        "url": "https://sun9-7.userapi.com/impg/SuDf1C5u-GMpOW_tf8fk0dKSm3bVZn7XKbP1HA/AYrmLKmjRZg.jpg?size=130x130&quality=96&sign=a2698225e56b96b52daaa5e5fa0a77a8&c_uniq_tag=VzU8A-PKhRG1PFmsrcXZdCQDrodn0W7yLW2rq5wUTg8&type=album"
+                                    },
+                                    {
+                                        "height": 604,
+                                        "type": "x",
+                                        "width": 604,
+                                        "url": "https://sun9-7.userapi.com/impg/SuDf1C5u-GMpOW_tf8fk0dKSm3bVZn7XKbP1HA/AYrmLKmjRZg.jpg?size=604x604&quality=96&sign=1c062846a89d3ef0ecd491230768b362&c_uniq_tag=x01M-3_rSlRcgowmHaXHQ5Fo0HvVx5finBR9HhIdFdc&type=album"
+                                    },
+                                    {
+                                        "height": 807,
+                                        "type": "y",
+                                        "width": 807,
+                                        "url": "https://sun9-7.userapi.com/impg/SuDf1C5u-GMpOW_tf8fk0dKSm3bVZn7XKbP1HA/AYrmLKmjRZg.jpg?size=807x807&quality=96&sign=71bf416ca3d3c5c03720b1a980b00696&c_uniq_tag=W8QPV7WSYm6JXSm96msFAFVJG5ZW4gqBryyC9uy4Eiw&type=album"
+                                    },
+                                    {
+                                        "height": 1280,
+                                        "type": "z",
+                                        "width": 1280,
+                                        "url": "https://sun9-7.userapi.com/impg/SuDf1C5u-GMpOW_tf8fk0dKSm3bVZn7XKbP1HA/AYrmLKmjRZg.jpg?size=1280x1280&quality=96&sign=749bd6d1228ec66e5df7b480b90fe78a&c_uniq_tag=AIHySw49ANwJ62hI3szHDww3xfeC3Po6b7HWY0-_cEU&type=album"
+                                    },
+                                    {
+                                        "height": 2160,
+                                        "type": "w",
+                                        "width": 2160,
+                                        "url": "https://sun9-7.userapi.com/impg/SuDf1C5u-GMpOW_tf8fk0dKSm3bVZn7XKbP1HA/AYrmLKmjRZg.jpg?size=2160x2160&quality=96&sign=b6b22a7d8bc3b3875ef9cea78e9b99b8&c_uniq_tag=Pa6r1MNv8NUBWkV8DdLG0OG5lkYyWqq49OcTqBK1YOw&type=album"
+                                    },
+                                    {
+                                        "height": 130,
+                                        "type": "o",
+                                        "width": 130,
+                                        "url": "https://sun9-7.userapi.com/impg/SuDf1C5u-GMpOW_tf8fk0dKSm3bVZn7XKbP1HA/AYrmLKmjRZg.jpg?size=130x130&quality=96&sign=a2698225e56b96b52daaa5e5fa0a77a8&c_uniq_tag=VzU8A-PKhRG1PFmsrcXZdCQDrodn0W7yLW2rq5wUTg8&type=album"
+                                    },
+                                    {
+                                        "height": 200,
+                                        "type": "p",
+                                        "width": 200,
+                                        "url": "https://sun9-7.userapi.com/impg/SuDf1C5u-GMpOW_tf8fk0dKSm3bVZn7XKbP1HA/AYrmLKmjRZg.jpg?size=200x200&quality=96&sign=afa8b9e526b1ea2420c068b91f3f4a6f&c_uniq_tag=dr7o8pWAzdcRNkrptYFWcmGiWYIyN1lKPs_S0IjHWUw&type=album"
+                                    },
+                                    {
+                                        "height": 320,
+                                        "type": "q",
+                                        "width": 320,
+                                        "url": "https://sun9-7.userapi.com/impg/SuDf1C5u-GMpOW_tf8fk0dKSm3bVZn7XKbP1HA/AYrmLKmjRZg.jpg?size=320x320&quality=96&sign=1ef24204c54cf465ed136d3006c3fe8e&c_uniq_tag=TSXV1nhCGNGzrsY_7J8IWh9xo0b38WS4i7q-G9KJMtk&type=album"
+                                    },
+                                    {
+                                        "height": 510,
+                                        "type": "r",
+                                        "width": 510,
+                                        "url": "https://sun9-7.userapi.com/impg/SuDf1C5u-GMpOW_tf8fk0dKSm3bVZn7XKbP1HA/AYrmLKmjRZg.jpg?size=510x510&quality=96&sign=f0dc2e35d0328f03bd2f68021a775549&c_uniq_tag=cjD0AAhdnZkLg7nUuIcvJ6Jp-4hyilbNKEGbcZctyOM&type=album"
+                                    }
+                                ],
+                                "text": "",
+                                "user_id": 100,
+                                "has_tags": false
+                            },
+                            "title": "Бринхильда: способности"
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "can_post": 1,
+                    "count": 53,
+                    "groups_can_post": true
+                },
+                "likes": {
+                    "can_like": 1,
+                    "count": 19,
+                    "user_likes": 0,
+                    "can_publish": 1
+                },
+                "reposts": {
+                    "count": 4,
+                    "user_reposted": 0
+                },
+                "views": {
+                    "count": 3454
+                },
+                "donut": {
+                    "is_donut": false
+                },
+                "short_text_rate": 0.8,
+                "carousel_offset": 0,
+                "hash": "DPXITc3MzNk-HNhJKQ"
+            },
+            {
+                "id": 155350,
+                "from_id": -149861500,
+                "owner_id": -149861500,
+                "date": 1667827801,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Дорогие друзья! 💜\n \nТретий сезон Обители Хаоса уже на подходе. В следующем сезоне Регионы сменятся. \n \n👀 Вас ожидают: \n \n🔥 Искажённая Долина: Варвары ослаблены. Дикие Эльфы, Гномы, Кобольды и Орки усилены \n🔥 Морозный Пик: Архоны и Варвары ослаблены. Друиды, Дикие Эльфы и Орки усилены \n🔥 Сердце Хаоса: Зверолюди, Архоны и Варвары ослаблены. Дикие Эльфы, Друиды, Высшие Эльфы, Кобольды, Отступники и Орки усилены\n \nГотовы ли вы доказать свою доблесть и мастерство? Обитель Хаоса вновь отворяет двери! \n \n#AgeOfMagic #Игровойрежим #Сезон #rpg #игра",
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1667826491,
+                            "id": 457261992,
+                            "owner_id": -149861500,
+                            "access_key": "abbf64cec95e9cecfa",
+                            "post_id": 155350,
+                            "sizes": [
+                                {
+                                    "height": 75,
+                                    "type": "s",
+                                    "width": 75,
+                                    "url": "https://sun7-7.userapi.com/impg/6PmLnX_zVw7GiS3ghJ4PlqQ8ZIZ2GNna9cnQag/z95LGZKjdTE.jpg?size=75x75&quality=95&sign=a017510aa26a8858be60d7b80b22a1d2&c_uniq_tag=9QtkAD8XVJcyeEFvs8QZMGLv7IGqwnQRNEZ3JYfiM5U&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "m",
+                                    "width": 130,
+                                    "url": "https://sun7-7.userapi.com/impg/6PmLnX_zVw7GiS3ghJ4PlqQ8ZIZ2GNna9cnQag/z95LGZKjdTE.jpg?size=130x130&quality=95&sign=994196be8bfafbff55a53b665b75a5ea&c_uniq_tag=KhLysdK0wUCJttIAOaOW1Tcs2OEpzAvQo5cOslIXC5k&type=album"
+                                },
+                                {
+                                    "height": 604,
+                                    "type": "x",
+                                    "width": 604,
+                                    "url": "https://sun7-7.userapi.com/impg/6PmLnX_zVw7GiS3ghJ4PlqQ8ZIZ2GNna9cnQag/z95LGZKjdTE.jpg?size=604x604&quality=95&sign=ba010760de14da9fb125ac7319ade4da&c_uniq_tag=rcI4fxY6m1ho7VzJw83sD2zbP5Ll1OioEryixA7zH5E&type=album"
+                                },
+                                {
+                                    "height": 807,
+                                    "type": "y",
+                                    "width": 807,
+                                    "url": "https://sun7-7.userapi.com/impg/6PmLnX_zVw7GiS3ghJ4PlqQ8ZIZ2GNna9cnQag/z95LGZKjdTE.jpg?size=807x807&quality=95&sign=700b8d2c71bc7a4f25c7a4489450dd90&c_uniq_tag=IIe-bAKYav2SlGjIiZVJ-v0KCiM5VXlmzcHi5KX5u9w&type=album"
+                                },
+                                {
+                                    "height": 1080,
+                                    "type": "z",
+                                    "width": 1080,
+                                    "url": "https://sun7-7.userapi.com/impg/6PmLnX_zVw7GiS3ghJ4PlqQ8ZIZ2GNna9cnQag/z95LGZKjdTE.jpg?size=1080x1080&quality=95&sign=b89c8ca02337f18490f236b527e644bc&c_uniq_tag=FbtCt8D-bG4hwRHnU4ys-xNlg0cuSJxGZ9ryG59vOlM&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "o",
+                                    "width": 130,
+                                    "url": "https://sun7-7.userapi.com/impg/6PmLnX_zVw7GiS3ghJ4PlqQ8ZIZ2GNna9cnQag/z95LGZKjdTE.jpg?size=130x130&quality=95&sign=994196be8bfafbff55a53b665b75a5ea&c_uniq_tag=KhLysdK0wUCJttIAOaOW1Tcs2OEpzAvQo5cOslIXC5k&type=album"
+                                },
+                                {
+                                    "height": 200,
+                                    "type": "p",
+                                    "width": 200,
+                                    "url": "https://sun7-7.userapi.com/impg/6PmLnX_zVw7GiS3ghJ4PlqQ8ZIZ2GNna9cnQag/z95LGZKjdTE.jpg?size=200x200&quality=95&sign=1d176a707fb46c32463c45a2729f7821&c_uniq_tag=R3PJ9Mc334xf8RMJt4KwLn13GDEtjBpR3iOpGo4ZwB4&type=album"
+                                },
+                                {
+                                    "height": 320,
+                                    "type": "q",
+                                    "width": 320,
+                                    "url": "https://sun7-7.userapi.com/impg/6PmLnX_zVw7GiS3ghJ4PlqQ8ZIZ2GNna9cnQag/z95LGZKjdTE.jpg?size=320x320&quality=95&sign=e5f664bf72bc02c9efecd7189da4ea5b&c_uniq_tag=1xuqcBbbs7L0UK-TPRP-AMH5_9Es-AH2eoFQsTMwot4&type=album"
+                                },
+                                {
+                                    "height": 510,
+                                    "type": "r",
+                                    "width": 510,
+                                    "url": "https://sun7-7.userapi.com/impg/6PmLnX_zVw7GiS3ghJ4PlqQ8ZIZ2GNna9cnQag/z95LGZKjdTE.jpg?size=510x510&quality=95&sign=3b885f6457f3b84ef8b848156505e4c9&c_uniq_tag=7Zf-yCZgzBRnvXIfbdlbdgL3nHdG-EagX2mmUjhcU3k&type=album"
+                                }
+                            ],
+                            "text": "",
+                            "user_id": 100,
+                            "has_tags": false
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "can_post": 1,
+                    "count": 34,
+                    "groups_can_post": true
+                },
+                "likes": {
+                    "can_like": 1,
+                    "count": 18,
+                    "user_likes": 0,
+                    "can_publish": 1
+                },
+                "reposts": {
+                    "count": 0,
+                    "user_reposted": 0
+                },
+                "views": {
+                    "count": 4839
+                },
+                "donut": {
+                    "is_donut": false
+                },
+                "short_text_rate": 0.8,
+                "hash": "nsUvF-U74UM3BCxzwg"
+            },
+            {
+                "id": 155240,
+                "from_id": -149861500,
+                "owner_id": -149861500,
+                "date": 1667466004,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Уникальное событие “Место Хранителя” уже в игре! Не упустите шанс собрать шарды могущественного Мага из Фракции Рыцари Совета - Библиотекаря!\n \nНапомним требования для прохождения миссий. 🤓\n \n💫 В Обычном режиме понадобятся: Герои Света и Тьмы, Кобольды, Нежить Арехона, а также Союзники Роланда. \n \n💫 В Героическом режиме понадобятся: Ловцы Удачи, Рабы Бездны, Маги, Гномы, Орки, Рыцари Совета, Гоблины, Драконий Народ, Целители Тьмы и Предвестники Зари. \n \nЗа прохождение миссий вы будете получать Руны Призыва, а также по 1 осколку Библиотекаря за первое их прохождение. В этом событии мы увеличили количество Рун в Обычном режиме до 30000. \n \n🎁 Календарь в подарок! \n \nСо стартом события появится особый календарь, содержащий осколки Героев и Руны Призыва. Длительность календаря - 10 дней.\n\n#AgeofMagic",
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1667464110,
+                            "id": 457261976,
+                            "owner_id": -149861500,
+                            "access_key": "5b8a51b1ddcc44692b",
+                            "post_id": 155240,
+                            "sizes": [
+                                {
+                                    "height": 75,
+                                    "type": "s",
+                                    "width": 75,
+                                    "url": "https://sun9-15.userapi.com/impg/Xm6qYL3ARbfKGt2MXry5ZR3P43ONTZ3Gswp7YA/gIZbAzqyYnw.jpg?size=75x75&quality=95&sign=1c73ee0ade5124e93e22979b3f303e62&c_uniq_tag=HG4sY5m6x50Rf3NHJEynJw_IqHgqrTYJqEr6D4-0hNE&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "m",
+                                    "width": 130,
+                                    "url": "https://sun9-15.userapi.com/impg/Xm6qYL3ARbfKGt2MXry5ZR3P43ONTZ3Gswp7YA/gIZbAzqyYnw.jpg?size=130x130&quality=95&sign=486f34e3bb8294d3f5ab034aeef47844&c_uniq_tag=bxWjaBf_rycaumTu2Fw3R5_EHoWeTGW9-YfFiErxA8U&type=album"
+                                },
+                                {
+                                    "height": 604,
+                                    "type": "x",
+                                    "width": 604,
+                                    "url": "https://sun9-15.userapi.com/impg/Xm6qYL3ARbfKGt2MXry5ZR3P43ONTZ3Gswp7YA/gIZbAzqyYnw.jpg?size=604x604&quality=95&sign=15e7369221c0db9714d7fb09e42a53cd&c_uniq_tag=vtFMeAawqq82w74zH8EZPuvBai2Edvx-pqC_n68bIP8&type=album"
+                                },
+                                {
+                                    "height": 807,
+                                    "type": "y",
+                                    "width": 807,
+                                    "url": "https://sun9-15.userapi.com/impg/Xm6qYL3ARbfKGt2MXry5ZR3P43ONTZ3Gswp7YA/gIZbAzqyYnw.jpg?size=807x807&quality=95&sign=76e48b5d1b6584428e47877c94c76b62&c_uniq_tag=oikY0pKJH09DrG_aAlMwrTHpKp9L2Y-n6_te3gSneT8&type=album"
+                                },
+                                {
+                                    "height": 1080,
+                                    "type": "z",
+                                    "width": 1080,
+                                    "url": "https://sun9-15.userapi.com/impg/Xm6qYL3ARbfKGt2MXry5ZR3P43ONTZ3Gswp7YA/gIZbAzqyYnw.jpg?size=1080x1080&quality=95&sign=122a8608eb97dc0eed7c652dc9ca1dfa&c_uniq_tag=2_ZouaZWVLFrDC1j8qprqLfAbiNSwqTAWqorkL420QM&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "o",
+                                    "width": 130,
+                                    "url": "https://sun9-15.userapi.com/impg/Xm6qYL3ARbfKGt2MXry5ZR3P43ONTZ3Gswp7YA/gIZbAzqyYnw.jpg?size=130x130&quality=95&sign=486f34e3bb8294d3f5ab034aeef47844&c_uniq_tag=bxWjaBf_rycaumTu2Fw3R5_EHoWeTGW9-YfFiErxA8U&type=album"
+                                },
+                                {
+                                    "height": 200,
+                                    "type": "p",
+                                    "width": 200,
+                                    "url": "https://sun9-15.userapi.com/impg/Xm6qYL3ARbfKGt2MXry5ZR3P43ONTZ3Gswp7YA/gIZbAzqyYnw.jpg?size=200x200&quality=95&sign=cb71fbd18a416b8f01d61eff4740259d&c_uniq_tag=qC9IMQuaCnKp-u3DcY6tQ9jKm1b2OMdQXeYpt1G1E5I&type=album"
+                                },
+                                {
+                                    "height": 320,
+                                    "type": "q",
+                                    "width": 320,
+                                    "url": "https://sun9-15.userapi.com/impg/Xm6qYL3ARbfKGt2MXry5ZR3P43ONTZ3Gswp7YA/gIZbAzqyYnw.jpg?size=320x320&quality=95&sign=7c13435deb24cc0e63a42339388e1e68&c_uniq_tag=MCmIvw3oT__S8MG7Vq_vWRorYo00ilx6ePTcNsSQoa8&type=album"
+                                },
+                                {
+                                    "height": 510,
+                                    "type": "r",
+                                    "width": 510,
+                                    "url": "https://sun9-15.userapi.com/impg/Xm6qYL3ARbfKGt2MXry5ZR3P43ONTZ3Gswp7YA/gIZbAzqyYnw.jpg?size=510x510&quality=95&sign=281ee9182aebceba3f4012bf39581fc5&c_uniq_tag=orhsmSMot631--BBg0PIgVWQTrQ1ZyYvMBKG1gE_XvA&type=album"
+                                }
+                            ],
+                            "text": "",
+                            "user_id": 100,
+                            "has_tags": false
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "can_post": 1,
+                    "count": 72,
+                    "groups_can_post": true
+                },
+                "likes": {
+                    "can_like": 1,
+                    "count": 21,
+                    "user_likes": 0,
+                    "can_publish": 1
+                },
+                "reposts": {
+                    "count": 1,
+                    "user_reposted": 0
+                },
+                "views": {
+                    "count": 5378
+                },
+                "donut": {
+                    "is_donut": false
+                },
+                "short_text_rate": 0.8,
+                "edited": 1667482255,
+                "hash": "rtflbPLel7F0wmqNOA"
+            },
+            {
+                "id": 155149,
+                "from_id": -149861500,
+                "owner_id": -149861500,
+                "date": 1667395765,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Всем привет! \n \nМы получаем много вопросов о недавних изменения в Age of Magic: Обитель Хаоса и 12 уровень снаряжения. Поэтому мы хотели бы рассказать о нашем видении дальнейшего развития игры. Age of Magic - это игра про Героев. Весь путь игрока в Age of Magic связан с их получением и усилением. Мы стремимся разнообразить способы получения и развития Героев, а также предлагаем вам новые цели на этом пути, для достижения которых вы сможете применить все свое мастерство и ранее накопленный игровой опыт. За последние 12 месяцев мы добавили в Age of Magic много значительных изменений: \n- новые Главы Кампании \n- новые уровни Испытаний и Рейдов \n- Рейтинги Клана \n- новые Герои и новые Фракции \n- новые способы получения Героев \n- 90 уровень аккаунтов \n- Ивентовые Рейды \n- Обитель Хаоса \n \nОдин из ключевых режимов для ветеранов игры - Обитель Хаоса. Этот режим дает новую возможность нашим опытным игрокам применить свои навыки и знание игровых механик. За прохождение самого сложного контента в игре мы выдаем очень ценные награды - элементы снаряжения 12 уровня. Прохождение Обители Хаоса дает возможность игрокам продолжать развитие своего аккаунта, получая награды за места в Рейтинге Обители и за победы в Регионах. Мы будем и дальше активно развивать этот режим, чтобы он не терял свою актуальность в будущем. \n \n12 уровень снаряжения на данный момент является частью режима Обитель Хаоса, а значит, имеет особенную актуальность для ветеранов Age of Magic. В будущем мы будем ускорять получение снаряжения 12 уровня и добавлять нужные предметы в другие режимы игры. У вас уже была возможность увидеть как это происходит на примере Чародейских Звезд. Сразу после их появления в игре, Чародейские Звезды было сложно получить, а на данный момент они доступны в нескольких игровых режимах. Также мы планируем расширять способы усиления Героев, чтобы облегчить прохождение нового контента. Повышение уровня аккаунта и Героев до 100 мы видим как естественное продолжение развития Age of Magic. Добавление новых уровней будет происходить с ребалансом притока Серебра и Зелий Познаний, их мы также добавим в награды различных режимов. \n \nВ завершение хотели бы затронуть еще одну горячую тему обсуждений в сообществе Age of Magic. Вы отметили, что все пункты опубликованной дорожной карты выполнены. Мы пока не готовы поделиться с вами подробной дорожной картой на следующий год, но можем рассказать над чем работаем прямо сейчас - это переработка механики Турнира. Новый Турнир станет более интересным, а также потребует от игроков более продуманной тактики. Надеемся порадовать вас релизом обновленного Турнира в начале следующего года. \n\n#AgeofMagic #Ответы",
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1667379350,
+                            "id": 457261973,
+                            "owner_id": -149861500,
+                            "access_key": "7988d012b1246eba66",
+                            "post_id": 155149,
+                            "sizes": [
+                                {
+                                    "height": 75,
+                                    "type": "s",
+                                    "width": 75,
+                                    "url": "https://sun9-68.userapi.com/impg/NQWB5yoWt4UJySiAzyEsuGjjlZNXemHSHdMY-A/uoLHGfowEwY.jpg?size=75x75&quality=95&sign=639c2b7b56a7c6c517b5606ff0041230&c_uniq_tag=K-OnhmCwo5Q4fhBuR_qX2rVK5h0tVyMh1gn75PGk6ZY&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "m",
+                                    "width": 130,
+                                    "url": "https://sun9-68.userapi.com/impg/NQWB5yoWt4UJySiAzyEsuGjjlZNXemHSHdMY-A/uoLHGfowEwY.jpg?size=130x130&quality=95&sign=e6058f1eea9301b732ee9fd601c95e3b&c_uniq_tag=QukHohxryKjXldirl-hft9Y137zbtW4ISNzTmOWYbKI&type=album"
+                                },
+                                {
+                                    "height": 604,
+                                    "type": "x",
+                                    "width": 604,
+                                    "url": "https://sun9-68.userapi.com/impg/NQWB5yoWt4UJySiAzyEsuGjjlZNXemHSHdMY-A/uoLHGfowEwY.jpg?size=604x604&quality=95&sign=783bd7a09d3973ed8ded1bb59f37718b&c_uniq_tag=iMzHB5bq2JwGM0hIz59LDv8cKu-xSEbYOCKvWqGI4Gg&type=album"
+                                },
+                                {
+                                    "height": 807,
+                                    "type": "y",
+                                    "width": 807,
+                                    "url": "https://sun9-68.userapi.com/impg/NQWB5yoWt4UJySiAzyEsuGjjlZNXemHSHdMY-A/uoLHGfowEwY.jpg?size=807x807&quality=95&sign=199230ff33a89d7a5a9a03b3c003f1f3&c_uniq_tag=HA2EZZX1xhLKSkfg6172cBJSHDQkKC3eauUn4DGNHBo&type=album"
+                                },
+                                {
+                                    "height": 1280,
+                                    "type": "z",
+                                    "width": 1280,
+                                    "url": "https://sun9-68.userapi.com/impg/NQWB5yoWt4UJySiAzyEsuGjjlZNXemHSHdMY-A/uoLHGfowEwY.jpg?size=1280x1280&quality=95&sign=3c4f493e2648fdee5579656cf69da848&c_uniq_tag=Xc-PChdmV2r32lVy_nZpT20FMckrkbM7ADtQlXSNnco&type=album"
+                                },
+                                {
+                                    "height": 2000,
+                                    "type": "w",
+                                    "width": 2000,
+                                    "url": "https://sun9-68.userapi.com/impg/NQWB5yoWt4UJySiAzyEsuGjjlZNXemHSHdMY-A/uoLHGfowEwY.jpg?size=2000x2000&quality=95&sign=80366bd2760f85b7e026f6f78097cf90&c_uniq_tag=iqCl-BYYaBYtSXGee2Sq5Ie1Be3yaHnIH9s1DwMRYaA&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "o",
+                                    "width": 130,
+                                    "url": "https://sun9-68.userapi.com/impg/NQWB5yoWt4UJySiAzyEsuGjjlZNXemHSHdMY-A/uoLHGfowEwY.jpg?size=130x130&quality=95&sign=e6058f1eea9301b732ee9fd601c95e3b&c_uniq_tag=QukHohxryKjXldirl-hft9Y137zbtW4ISNzTmOWYbKI&type=album"
+                                },
+                                {
+                                    "height": 200,
+                                    "type": "p",
+                                    "width": 200,
+                                    "url": "https://sun9-68.userapi.com/impg/NQWB5yoWt4UJySiAzyEsuGjjlZNXemHSHdMY-A/uoLHGfowEwY.jpg?size=200x200&quality=95&sign=446e1aa5bcff5cb67505c58d99dde5ba&c_uniq_tag=TlNJdLBjPFYO4hexMwHZwmkv_jeVtH0ufeR3fq7cPEw&type=album"
+                                },
+                                {
+                                    "height": 320,
+                                    "type": "q",
+                                    "width": 320,
+                                    "url": "https://sun9-68.userapi.com/impg/NQWB5yoWt4UJySiAzyEsuGjjlZNXemHSHdMY-A/uoLHGfowEwY.jpg?size=320x320&quality=95&sign=f555022fe873f87ad3c2d13ec14c3eee&c_uniq_tag=n2czlDXWQbVSk9t33Vvnk6FcvE8CUx7dLZ-H0vSOuXs&type=album"
+                                },
+                                {
+                                    "height": 510,
+                                    "type": "r",
+                                    "width": 510,
+                                    "url": "https://sun9-68.userapi.com/impg/NQWB5yoWt4UJySiAzyEsuGjjlZNXemHSHdMY-A/uoLHGfowEwY.jpg?size=510x510&quality=95&sign=579d8c853ef0e713266b3c62703d3326&c_uniq_tag=lgKapFJfkk6ALRLCfJjfpuQOkNq6beTklw7nn22ULlE&type=album"
+                                }
+                            ],
+                            "text": "",
+                            "user_id": 100,
+                            "has_tags": false
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "can_post": 1,
+                    "count": 121,
+                    "groups_can_post": true
+                },
+                "likes": {
+                    "can_like": 1,
+                    "count": 25,
+                    "user_likes": 0,
+                    "can_publish": 1
+                },
+                "reposts": {
+                    "count": 0,
+                    "user_reposted": 0
+                },
+                "views": {
+                    "count": 7103
+                },
+                "donut": {
+                    "is_donut": false
+                },
+                "short_text_rate": 0.8,
+                "hash": "YkKtDKVc0Ux5ZLCvRQ"
+            },
+            {
+                "id": 155110,
+                "from_id": -149861500,
+                "owner_id": -149861500,
+                "date": 1667312381,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Всем привет! \n \nРады объявить победителей нашего конкурса Ужастень в Age of Magic. \n \n⭐1 место: Феникс#129O \n⭐2 место: Zaw1#1D6Y \n⭐3 место: Я_есть_грут#14JU \n\nПризы будут отправлены победителям до 3.11 \n\nВеселого Ужастня!",
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1667312381,
+                            "id": 457261970,
+                            "owner_id": -149861500,
+                            "access_key": "82bc67406dee5b1731",
+                            "post_id": 155110,
+                            "sizes": [
+                                {
+                                    "height": 75,
+                                    "type": "s",
+                                    "width": 75,
+                                    "url": "https://sun7-16.userapi.com/impg/GSu_8N1-za_yiJLdoAMaXr1a4lCDf3yvm7Zs9Q/YobDZq_VZN0.jpg?size=75x75&quality=95&sign=1a5c2c798f795dabee0c1efea0367d36&c_uniq_tag=cSlGQzOPGgqykqk2r2zd2av3SgGoLARUbJeizh6Jg8k&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "m",
+                                    "width": 130,
+                                    "url": "https://sun7-16.userapi.com/impg/GSu_8N1-za_yiJLdoAMaXr1a4lCDf3yvm7Zs9Q/YobDZq_VZN0.jpg?size=130x130&quality=95&sign=7374b86e56a04dd61871287f037bf8a3&c_uniq_tag=acB7LQisPqZvOFkq9oqO41PDulFu_I9Tl-2M5fz1JHE&type=album"
+                                },
+                                {
+                                    "height": 604,
+                                    "type": "x",
+                                    "width": 604,
+                                    "url": "https://sun7-16.userapi.com/impg/GSu_8N1-za_yiJLdoAMaXr1a4lCDf3yvm7Zs9Q/YobDZq_VZN0.jpg?size=604x604&quality=95&sign=37123aa78371bb1b507d87d2ce288f3d&c_uniq_tag=JT8wFq0VHP9CFn7-DV7KXc2UOI8RaqsFFTilqHj2P-0&type=album"
+                                },
+                                {
+                                    "height": 807,
+                                    "type": "y",
+                                    "width": 807,
+                                    "url": "https://sun7-16.userapi.com/impg/GSu_8N1-za_yiJLdoAMaXr1a4lCDf3yvm7Zs9Q/YobDZq_VZN0.jpg?size=807x807&quality=95&sign=76fde0c969702d2c34ba171dac5badc7&c_uniq_tag=5M3arVlW5iZrq63Spq5Qxuk_DVAAE7yEkcJlzVMWAsA&type=album"
+                                },
+                                {
+                                    "height": 1080,
+                                    "type": "z",
+                                    "width": 1080,
+                                    "url": "https://sun7-16.userapi.com/impg/GSu_8N1-za_yiJLdoAMaXr1a4lCDf3yvm7Zs9Q/YobDZq_VZN0.jpg?size=1080x1080&quality=95&sign=b01944a29bf6d2273965024810decc2f&c_uniq_tag=ptkJ96oW742pmQOeu7rEpvWyrWv-d60lZ_kd9XjvYKE&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "o",
+                                    "width": 130,
+                                    "url": "https://sun7-16.userapi.com/impg/GSu_8N1-za_yiJLdoAMaXr1a4lCDf3yvm7Zs9Q/YobDZq_VZN0.jpg?size=130x130&quality=95&sign=7374b86e56a04dd61871287f037bf8a3&c_uniq_tag=acB7LQisPqZvOFkq9oqO41PDulFu_I9Tl-2M5fz1JHE&type=album"
+                                },
+                                {
+                                    "height": 200,
+                                    "type": "p",
+                                    "width": 200,
+                                    "url": "https://sun7-16.userapi.com/impg/GSu_8N1-za_yiJLdoAMaXr1a4lCDf3yvm7Zs9Q/YobDZq_VZN0.jpg?size=200x200&quality=95&sign=4a600a8babefccc485876d51382f1c2a&c_uniq_tag=qJmlJvqjInf-IuJzFTHPm3X6uphwACZJVY-tmYJos1Y&type=album"
+                                },
+                                {
+                                    "height": 320,
+                                    "type": "q",
+                                    "width": 320,
+                                    "url": "https://sun7-16.userapi.com/impg/GSu_8N1-za_yiJLdoAMaXr1a4lCDf3yvm7Zs9Q/YobDZq_VZN0.jpg?size=320x320&quality=95&sign=081cb7cbec1c89ee2c64965f3e514341&c_uniq_tag=1ODJq5KXaVB0pkh9pUUR00yc0383g7198TJ41jo9Gig&type=album"
+                                },
+                                {
+                                    "height": 510,
+                                    "type": "r",
+                                    "width": 510,
+                                    "url": "https://sun7-16.userapi.com/impg/GSu_8N1-za_yiJLdoAMaXr1a4lCDf3yvm7Zs9Q/YobDZq_VZN0.jpg?size=510x510&quality=95&sign=b888387b1b05dcc723e7a479a55e7d24&c_uniq_tag=91jMGWy8mSuEP3cfOSJ7dpN9Y91_VX2Hd0Cu69f_eOE&type=album"
+                                }
+                            ],
+                            "text": "",
+                            "user_id": 100,
+                            "has_tags": false
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "can_post": 1,
+                    "count": 4,
+                    "groups_can_post": true
+                },
+                "likes": {
+                    "can_like": 1,
+                    "count": 10,
+                    "user_likes": 0,
+                    "can_publish": 1
+                },
+                "reposts": {
+                    "count": 2,
+                    "user_reposted": 0
+                },
+                "views": {
+                    "count": 3998
+                },
+                "donut": {
+                    "is_donut": false
+                },
+                "short_text_rate": 0.8,
+                "hash": "tQ2ZIjb5D9ofJho83g"
+            },
+            {
+                "id": 155103,
+                "from_id": -149861500,
+                "owner_id": -149861500,
+                "date": 1667309400,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "📜 Бринхильда известна как воинственная дева, неустанно стремящаяся к схватке. В сражении она ощущает родную стихию и в полной мере раскрывает свою силу. \n \nНа поле боя не место сомнениям. Бринхильда – та, что всегда вдохновит и подарит уверенность товарищам ободряющими лозунгами. \n \nСражаясь плечом к плечу с Защитниками, бесстрашная дева не позволит врагу одержать верх. Копьё и щит всегда придут на помощь и нанесут оппоненту колоссальный урон. А решающий критический удар по тьме обязательно будет за ней! \n \nДевушка является одной из самых преданных последовательниц Совета. Она твёрдо убеждена, что дело Рыцарей – это то, ради чего можно пожертвовать жизнью. Ей не свойственны сомнения и душевные метания. Её вера непоколебима. \n \nТревожная мысль посещает её, когда Морриган и Лионго ступают на сторону Тьмы. Можно ли доверять людям рядом с ней? Насколько устойчивы и искренни их идеалы? Ведь любое существо, которое пускает Тьму в своё сердце, навсегда искажает Свет внутри себя. И является оскорблением идеалов, в которые верит сама Бринхильда. \n \nДаже близкая подруга, Вулкан, которая нередко называла её «Валькирией» за крылья и характер ведения боя, вдруг вызывает подозрения. Эта её Красная Сабля… \n \n#AgeOfMagic #Герой #rpg #игра #Анонс #Рассказ #История",
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1667196058,
+                            "id": 457261967,
+                            "owner_id": -149861500,
+                            "access_key": "4086aa305092e6cbcc",
+                            "post_id": 155103,
+                            "sizes": [
+                                {
+                                    "height": 75,
+                                    "type": "s",
+                                    "width": 60,
+                                    "url": "https://sun9-88.userapi.com/impg/zVO5PKwZ6IYp2c6ohddApL5LgR4Df3HMZPKwgQ/m5232tvLoqA.jpg?size=60x75&quality=95&sign=1ad0c20e5f69e970867f5066484e6350&c_uniq_tag=7TLkQ1lRsh3wdikA7NI5H5osUPqJtnMlR8g4Xyp576k&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "m",
+                                    "width": 104,
+                                    "url": "https://sun9-88.userapi.com/impg/zVO5PKwZ6IYp2c6ohddApL5LgR4Df3HMZPKwgQ/m5232tvLoqA.jpg?size=104x130&quality=95&sign=016ecd53c54970dddc2b7ce9fff9a25d&c_uniq_tag=qtrctYLDbmz2qi4fwk5Z9UMalhJejimRelfS8qA1AyQ&type=album"
+                                },
+                                {
+                                    "height": 604,
+                                    "type": "x",
+                                    "width": 483,
+                                    "url": "https://sun9-88.userapi.com/impg/zVO5PKwZ6IYp2c6ohddApL5LgR4Df3HMZPKwgQ/m5232tvLoqA.jpg?size=483x604&quality=95&sign=46248a22c9a41ae506a24b4cdb41c5b3&c_uniq_tag=E4X4m3vcyjuFMpR4ZwO57YL1FzbMChJl1bU8biB_dVw&type=album"
+                                },
+                                {
+                                    "height": 807,
+                                    "type": "y",
+                                    "width": 646,
+                                    "url": "https://sun9-88.userapi.com/impg/zVO5PKwZ6IYp2c6ohddApL5LgR4Df3HMZPKwgQ/m5232tvLoqA.jpg?size=646x807&quality=95&sign=eda1075262692ff1167b50edef0e1abc&c_uniq_tag=tWvxqAzAaMsaRBLUAv4vZSfH-cnnpId6sGM05Z7lOW4&type=album"
+                                },
+                                {
+                                    "height": 1080,
+                                    "type": "z",
+                                    "width": 864,
+                                    "url": "https://sun9-88.userapi.com/impg/zVO5PKwZ6IYp2c6ohddApL5LgR4Df3HMZPKwgQ/m5232tvLoqA.jpg?size=864x1080&quality=95&sign=71aa6a13d807b15db92740b8839a5964&c_uniq_tag=kNu3bRIpOKkWIj1gHV8EbmlzQc_c-HblVgpnNoJWf5Y&type=album"
+                                },
+                                {
+                                    "height": 2000,
+                                    "type": "w",
+                                    "width": 1600,
+                                    "url": "https://sun9-88.userapi.com/impg/zVO5PKwZ6IYp2c6ohddApL5LgR4Df3HMZPKwgQ/m5232tvLoqA.jpg?size=1600x2000&quality=95&sign=8dac9970af5a24e3ab8802952d575cca&c_uniq_tag=MHVDjLabXfkgC_B6ZNEwW3HpRje_eTjwLqEZA4VvVSk&type=album"
+                                },
+                                {
+                                    "height": 162,
+                                    "type": "o",
+                                    "width": 130,
+                                    "url": "https://sun9-88.userapi.com/impg/zVO5PKwZ6IYp2c6ohddApL5LgR4Df3HMZPKwgQ/m5232tvLoqA.jpg?size=130x162&quality=95&sign=5c5d6df0c73f7cad6374d4d110d1d99f&c_uniq_tag=_REIc7qx1_IRdewv3NNn_SK52pYKlHG8RYdZ1F4biAU&type=album"
+                                },
+                                {
+                                    "height": 250,
+                                    "type": "p",
+                                    "width": 200,
+                                    "url": "https://sun9-88.userapi.com/impg/zVO5PKwZ6IYp2c6ohddApL5LgR4Df3HMZPKwgQ/m5232tvLoqA.jpg?size=200x250&quality=95&sign=fc6796cf07262147cccedcfb6ff96257&c_uniq_tag=8jPkX9jE4suwQU8fX_3uQ8_wwqwCs7phHTj-iId5kjc&type=album"
+                                },
+                                {
+                                    "height": 400,
+                                    "type": "q",
+                                    "width": 320,
+                                    "url": "https://sun9-88.userapi.com/impg/zVO5PKwZ6IYp2c6ohddApL5LgR4Df3HMZPKwgQ/m5232tvLoqA.jpg?size=320x400&quality=95&sign=c038cf5378feb740de3312cf995426fe&c_uniq_tag=Qle-sl6lqFv7S_Xlqz3n-4_npCHiNvJS0qco7WDgtI4&type=album"
+                                },
+                                {
+                                    "height": 637,
+                                    "type": "r",
+                                    "width": 510,
+                                    "url": "https://sun9-88.userapi.com/impg/zVO5PKwZ6IYp2c6ohddApL5LgR4Df3HMZPKwgQ/m5232tvLoqA.jpg?size=510x637&quality=95&sign=b9fb66f08fd8436d0c76209b1614449e&c_uniq_tag=GN8ObS0g8ZQVU5TQMqkrcvSOi33Y1tTTElPcgnaVQJk&type=album"
+                                }
+                            ],
+                            "text": "",
+                            "user_id": 100,
+                            "has_tags": false
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "can_post": 1,
+                    "count": 53,
+                    "groups_can_post": true
+                },
+                "likes": {
+                    "can_like": 1,
+                    "count": 23,
+                    "user_likes": 0,
+                    "can_publish": 1
+                },
+                "reposts": {
+                    "count": 1,
+                    "user_reposted": 0
+                },
+                "views": {
+                    "count": 4990
+                },
+                "donut": {
+                    "is_donut": false
+                },
+                "short_text_rate": 0.8,
+                "hash": "Fb2qZS2JKR1Raocovw"
+            },
+            {
+                "id": 155076,
+                "from_id": -149861500,
+                "owner_id": -149861500,
+                "date": 1667206800,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Наступает Хэллоуин, время веселья и волшебства! 🎃\n \nВ этот вечер принято собираться вместе с друзьями и близкими, одевать яркие костюмы и пробовать вкусные блюда 🍕 А когда ночь сгустит свои краски – наступит время завораживающих историй 📖\n \nДорогие Игроки, поздравляем вас с этим праздником! 🤗 И пусть тепло домашнего очага разгонит тени 🏠\n \nВ качестве небольшого подарка от нас мы хотели бы поделиться с вами обоями для рабочего стола с обворожительной Цуной! 😍\n \nСкачать их можно по ссылке: https://www.dropbox.com/sh/z1tsdagfgriqhz2/AAAkj2FBpTuwn_KubY1Mv3-La?dl=0 \n \n#AgeOfMagic #Хэллоуин #Ужастень",
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1666783760,
+                            "id": 457261936,
+                            "owner_id": -149861500,
+                            "access_key": "113e1f6330408e4e89",
+                            "sizes": [
+                                {
+                                    "height": 75,
+                                    "type": "s",
+                                    "width": 75,
+                                    "url": "https://sun7-6.userapi.com/impg/4ttYWCwOMrF2YQFU8_zSzqb_KzWE0mWdzS_sTw/xk_AETmGeHA.jpg?size=75x75&quality=95&sign=848b1cead504c68734fbea933b6c54e4&c_uniq_tag=73-BnO3mjoA0-1SbHlOVDFL9PUP3rfrH4-Y4-JaKNOE&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "m",
+                                    "width": 130,
+                                    "url": "https://sun7-6.userapi.com/impg/4ttYWCwOMrF2YQFU8_zSzqb_KzWE0mWdzS_sTw/xk_AETmGeHA.jpg?size=130x130&quality=95&sign=dbc9f6db103f8ca30590953cc913889b&c_uniq_tag=tlgOc6ey-Udne-K1oVq-n4jxDBJMt3USGnC9PQVkuCI&type=album"
+                                },
+                                {
+                                    "height": 604,
+                                    "type": "x",
+                                    "width": 604,
+                                    "url": "https://sun7-6.userapi.com/impg/4ttYWCwOMrF2YQFU8_zSzqb_KzWE0mWdzS_sTw/xk_AETmGeHA.jpg?size=604x604&quality=95&sign=20cfd06dff3a3752ac876a7cb393f861&c_uniq_tag=vLZGjoqepZTIhMXc_bW6E_cSJzJhagnIc9gXGdwzecc&type=album"
+                                },
+                                {
+                                    "height": 807,
+                                    "type": "y",
+                                    "width": 807,
+                                    "url": "https://sun7-6.userapi.com/impg/4ttYWCwOMrF2YQFU8_zSzqb_KzWE0mWdzS_sTw/xk_AETmGeHA.jpg?size=807x807&quality=95&sign=34236c1e1c0eb4408e089aa30375d3b7&c_uniq_tag=uWDn_eLJ9zeK0lo_sl5Xi2l7Ur4lVStL3Q9D2OONThs&type=album"
+                                },
+                                {
+                                    "height": 1280,
+                                    "type": "z",
+                                    "width": 1280,
+                                    "url": "https://sun7-6.userapi.com/impg/4ttYWCwOMrF2YQFU8_zSzqb_KzWE0mWdzS_sTw/xk_AETmGeHA.jpg?size=1280x1280&quality=95&sign=6ef554d7309e4b5aeed7aa72414c1f2a&c_uniq_tag=ziUuABuJ1A-Rj2OAzmiIRlAC_7G2TfeQ_7QJcSY4D4c&type=album"
+                                },
+                                {
+                                    "height": 2000,
+                                    "type": "w",
+                                    "width": 2000,
+                                    "url": "https://sun7-6.userapi.com/impg/4ttYWCwOMrF2YQFU8_zSzqb_KzWE0mWdzS_sTw/xk_AETmGeHA.jpg?size=2000x2000&quality=95&sign=be04abccd160409735e577f66efb28f0&c_uniq_tag=j-oCFgOZxS8ffbeOzMCrE5ZaI9bXThRH_QnCe3kUmRY&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "o",
+                                    "width": 130,
+                                    "url": "https://sun7-6.userapi.com/impg/4ttYWCwOMrF2YQFU8_zSzqb_KzWE0mWdzS_sTw/xk_AETmGeHA.jpg?size=130x130&quality=95&sign=dbc9f6db103f8ca30590953cc913889b&c_uniq_tag=tlgOc6ey-Udne-K1oVq-n4jxDBJMt3USGnC9PQVkuCI&type=album"
+                                },
+                                {
+                                    "height": 200,
+                                    "type": "p",
+                                    "width": 200,
+                                    "url": "https://sun7-6.userapi.com/impg/4ttYWCwOMrF2YQFU8_zSzqb_KzWE0mWdzS_sTw/xk_AETmGeHA.jpg?size=200x200&quality=95&sign=d3dc35dbf4798e27a1b4dcc90c1917ef&c_uniq_tag=lahzEuVXruek6Jd6fuRkLMDnmu0DLt9DN35z3J2Hi3o&type=album"
+                                },
+                                {
+                                    "height": 320,
+                                    "type": "q",
+                                    "width": 320,
+                                    "url": "https://sun7-6.userapi.com/impg/4ttYWCwOMrF2YQFU8_zSzqb_KzWE0mWdzS_sTw/xk_AETmGeHA.jpg?size=320x320&quality=95&sign=ed2f7c15601ef1d69689bb5ec4edddf4&c_uniq_tag=3H_NrFWGVqohMEnxQDe8yGsSsrJP58L36Zyxh816uRQ&type=album"
+                                },
+                                {
+                                    "height": 510,
+                                    "type": "r",
+                                    "width": 510,
+                                    "url": "https://sun7-6.userapi.com/impg/4ttYWCwOMrF2YQFU8_zSzqb_KzWE0mWdzS_sTw/xk_AETmGeHA.jpg?size=510x510&quality=95&sign=503d401894159751204b41e980c7c63c&c_uniq_tag=KXRIFB5wsaO_5CKtoPrbJWfDbKBa0N6nsDhB8Jp3bfw&type=album"
+                                }
+                            ],
+                            "text": "",
+                            "user_id": 100,
+                            "has_tags": false
+                        }
+                    },
+                    {
+                        "type": "link",
+                        "link": {
+                            "url": "https://www.dropbox.com/sh/z1tsdagfgriqhz2/AAAkj2FBpTuwn_KubY1Mv3-La?dl=0",
+                            "title": "Horrorween 2022",
+                            "description": "Общий доступ предоставлен через Dropbox",
+                            "target": "internal",
+                            "photo": {
+                                "album_id": -25,
+                                "date": 1666783760,
+                                "id": 457413279,
+                                "owner_id": 2000035133,
+                                "sizes": [
+                                    {
+                                        "height": 130,
+                                        "type": "m",
+                                        "width": 130,
+                                        "url": "https://sun7-9.userapi.com/impg/BSZSkjLqUSC9tiAe5G5mSrtPh9RujIC172KIug/5P_smaaU5Cw.jpg?size=130x130&quality=96&sign=48166b2e759d69211982d7eb5d83fb83&c_uniq_tag=d9PH01IFBbmWrElmBaS01iSh4jwHdes6hTTLywd4SgQ&type=album"
+                                    },
+                                    {
+                                        "height": 75,
+                                        "type": "s",
+                                        "width": 75,
+                                        "url": "https://sun7-9.userapi.com/impg/BSZSkjLqUSC9tiAe5G5mSrtPh9RujIC172KIug/5P_smaaU5Cw.jpg?size=75x75&quality=96&sign=a78b5775f72ffea88675205a2422baf6&c_uniq_tag=cWGBQ3XIQgeR9fWow7hRZ0_3-ob1Pr1ygPRvN3ur6P4&type=album"
+                                    },
+                                    {
+                                        "height": 150,
+                                        "type": "x",
+                                        "width": 150,
+                                        "url": "https://sun7-9.userapi.com/impg/BSZSkjLqUSC9tiAe5G5mSrtPh9RujIC172KIug/5P_smaaU5Cw.jpg?size=150x150&quality=96&sign=af5207097517ae4d9ea9ba0f280bd7d1&c_uniq_tag=iWG9AdBr9UznBsLHV2ZC0qkAafZ9_XGRetEfwRZAang&type=album"
+                                    }
+                                ],
+                                "text": "",
+                                "user_id": 100,
+                                "has_tags": false
+                            }
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "can_post": 1,
+                    "count": 11,
+                    "groups_can_post": true
+                },
+                "likes": {
+                    "can_like": 1,
+                    "count": 11,
+                    "user_likes": 0,
+                    "can_publish": 1
+                },
+                "reposts": {
+                    "count": 0,
+                    "user_reposted": 0
+                },
+                "views": {
+                    "count": 4072
+                },
+                "donut": {
+                    "is_donut": false
+                },
+                "short_text_rate": 0.8,
+                "carousel_offset": 0,
+                "hash": "rfXdQyz3YCfe4JO_hQ"
+            },
+            {
+                "id": 154990,
+                "from_id": -149861500,
+                "owner_id": -149861500,
+                "date": 1666963800,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "На Аррате уже готовы к празднованию Ужастня. Сколько тыкв вы видите у Обители Хаоса? 🎃 \n \n#AgeofMagic #Головоломка #Ужастень",
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1666948739,
+                            "id": 457261959,
+                            "owner_id": -149861500,
+                            "access_key": "48f09d16abca0279a4",
+                            "post_id": 154990,
+                            "sizes": [
+                                {
+                                    "height": 75,
+                                    "type": "s",
+                                    "width": 75,
+                                    "url": "https://sun9-16.userapi.com/impg/rp2Gg_ac26I4gguw_A3va_L_EXjM9t8lpsYP-w/SnEeVggIaFE.jpg?size=75x75&quality=95&sign=57b473242831bbf0e0b9048a3aade61e&c_uniq_tag=U2ewP0QvI2c-_EFRep9D1HrvxWqi_OFHcNqONYOb1uk&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "m",
+                                    "width": 130,
+                                    "url": "https://sun9-16.userapi.com/impg/rp2Gg_ac26I4gguw_A3va_L_EXjM9t8lpsYP-w/SnEeVggIaFE.jpg?size=130x130&quality=95&sign=af89d8685c89783ba53293a6f0c792b5&c_uniq_tag=FHtJG-idCi5LLSfpwOk6yhKlga3mMf5dBOa9Judbnq4&type=album"
+                                },
+                                {
+                                    "height": 604,
+                                    "type": "x",
+                                    "width": 604,
+                                    "url": "https://sun9-16.userapi.com/impg/rp2Gg_ac26I4gguw_A3va_L_EXjM9t8lpsYP-w/SnEeVggIaFE.jpg?size=604x604&quality=95&sign=0a0eddb3f4aa92d66ebe30f2562c3d84&c_uniq_tag=xvHZrxCIQNxhIzyO9UUNajpvTnk9oJ0CZGcpMZbYSKc&type=album"
+                                },
+                                {
+                                    "height": 807,
+                                    "type": "y",
+                                    "width": 807,
+                                    "url": "https://sun9-16.userapi.com/impg/rp2Gg_ac26I4gguw_A3va_L_EXjM9t8lpsYP-w/SnEeVggIaFE.jpg?size=807x807&quality=95&sign=91604e4dcc24fc533339f266b9a2ef10&c_uniq_tag=ogpF31qUgC82yz1shvVVwt0LXORXKhTj2rj4QVUxAGo&type=album"
+                                },
+                                {
+                                    "height": 1080,
+                                    "type": "z",
+                                    "width": 1080,
+                                    "url": "https://sun9-16.userapi.com/impg/rp2Gg_ac26I4gguw_A3va_L_EXjM9t8lpsYP-w/SnEeVggIaFE.jpg?size=1080x1080&quality=95&sign=08126a3846a1676571e011bcd9d9d04f&c_uniq_tag=yXzlaPGDXbDhVnk1zdzBbUk4FHZTLeKSRF9h81usfoE&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "o",
+                                    "width": 130,
+                                    "url": "https://sun9-16.userapi.com/impg/rp2Gg_ac26I4gguw_A3va_L_EXjM9t8lpsYP-w/SnEeVggIaFE.jpg?size=130x130&quality=95&sign=af89d8685c89783ba53293a6f0c792b5&c_uniq_tag=FHtJG-idCi5LLSfpwOk6yhKlga3mMf5dBOa9Judbnq4&type=album"
+                                },
+                                {
+                                    "height": 200,
+                                    "type": "p",
+                                    "width": 200,
+                                    "url": "https://sun9-16.userapi.com/impg/rp2Gg_ac26I4gguw_A3va_L_EXjM9t8lpsYP-w/SnEeVggIaFE.jpg?size=200x200&quality=95&sign=e3683d9c5b58c452e7aee188c6d22543&c_uniq_tag=BOUuZUtiV0JfSzYAUD-VE2BAvf5qCgqtUkaqN45OScE&type=album"
+                                },
+                                {
+                                    "height": 320,
+                                    "type": "q",
+                                    "width": 320,
+                                    "url": "https://sun9-16.userapi.com/impg/rp2Gg_ac26I4gguw_A3va_L_EXjM9t8lpsYP-w/SnEeVggIaFE.jpg?size=320x320&quality=95&sign=7f838789a12f729e65fc267b1531a08a&c_uniq_tag=Ra7E53TmqR0O71uAdhZPEGgAiLJA743O21IwJoM764Q&type=album"
+                                },
+                                {
+                                    "height": 510,
+                                    "type": "r",
+                                    "width": 510,
+                                    "url": "https://sun9-16.userapi.com/impg/rp2Gg_ac26I4gguw_A3va_L_EXjM9t8lpsYP-w/SnEeVggIaFE.jpg?size=510x510&quality=95&sign=b8ddede085cf6c410f624b120f655f2a&c_uniq_tag=7UvdzIWDOsvMIn6-fmLL5axukZL1TFJL6wHQvBkfSp0&type=album"
+                                }
+                            ],
+                            "text": "",
+                            "user_id": 100,
+                            "has_tags": false
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "can_post": 1,
+                    "count": 77,
+                    "groups_can_post": true
+                },
+                "likes": {
+                    "can_like": 1,
+                    "count": 9,
+                    "user_likes": 0,
+                    "can_publish": 1
+                },
+                "reposts": {
+                    "count": 0,
+                    "user_reposted": 0
+                },
+                "views": {
+                    "count": 5413
+                },
+                "donut": {
+                    "is_donut": false
+                },
+                "short_text_rate": 0.8,
+                "hash": "9RnrKchtKkqLIP7ifA"
+            },
+            {
+                "id": 154982,
+                "from_id": -149861500,
+                "owner_id": -149861500,
+                "date": 1666954802,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Всем привет! \nМы решили продлить конкурс “Ужастень в Age of Magic” до 31.10, ведь мы хотим, чтобы больше игроков имели шанс получить подарки от нас! \n\n🎁 Среди призов вас ждут Облики Мэдб и Мага Крови из комплекта Ужастней, Магические монеты, Арсенальные Жетоны, Золото, Руна Индиго, а также Камни Душ и Чародейские монеты! \n\n✨ Читайте правила и присылайте работы по ссылке: https://vk.com/ageofmagicgame?w=wall-149861500_154313\n\nМы не видим ваши тыквы! 🎃 \n \n#AgeofMagic #Ужастень",
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1666948084,
+                            "id": 457261958,
+                            "owner_id": -149861500,
+                            "access_key": "d4ee1b35f78d3ccd42",
+                            "post_id": 154982,
+                            "sizes": [
+                                {
+                                    "height": 75,
+                                    "type": "s",
+                                    "width": 75,
+                                    "url": "https://sun7-16.userapi.com/impg/GSu_8N1-za_yiJLdoAMaXr1a4lCDf3yvm7Zs9Q/YobDZq_VZN0.jpg?size=75x75&quality=95&sign=1a5c2c798f795dabee0c1efea0367d36&c_uniq_tag=cSlGQzOPGgqykqk2r2zd2av3SgGoLARUbJeizh6Jg8k&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "m",
+                                    "width": 130,
+                                    "url": "https://sun7-16.userapi.com/impg/GSu_8N1-za_yiJLdoAMaXr1a4lCDf3yvm7Zs9Q/YobDZq_VZN0.jpg?size=130x130&quality=95&sign=7374b86e56a04dd61871287f037bf8a3&c_uniq_tag=acB7LQisPqZvOFkq9oqO41PDulFu_I9Tl-2M5fz1JHE&type=album"
+                                },
+                                {
+                                    "height": 604,
+                                    "type": "x",
+                                    "width": 604,
+                                    "url": "https://sun7-16.userapi.com/impg/GSu_8N1-za_yiJLdoAMaXr1a4lCDf3yvm7Zs9Q/YobDZq_VZN0.jpg?size=604x604&quality=95&sign=37123aa78371bb1b507d87d2ce288f3d&c_uniq_tag=JT8wFq0VHP9CFn7-DV7KXc2UOI8RaqsFFTilqHj2P-0&type=album"
+                                },
+                                {
+                                    "height": 807,
+                                    "type": "y",
+                                    "width": 807,
+                                    "url": "https://sun7-16.userapi.com/impg/GSu_8N1-za_yiJLdoAMaXr1a4lCDf3yvm7Zs9Q/YobDZq_VZN0.jpg?size=807x807&quality=95&sign=76fde0c969702d2c34ba171dac5badc7&c_uniq_tag=5M3arVlW5iZrq63Spq5Qxuk_DVAAE7yEkcJlzVMWAsA&type=album"
+                                },
+                                {
+                                    "height": 1080,
+                                    "type": "z",
+                                    "width": 1080,
+                                    "url": "https://sun7-16.userapi.com/impg/GSu_8N1-za_yiJLdoAMaXr1a4lCDf3yvm7Zs9Q/YobDZq_VZN0.jpg?size=1080x1080&quality=95&sign=b01944a29bf6d2273965024810decc2f&c_uniq_tag=ptkJ96oW742pmQOeu7rEpvWyrWv-d60lZ_kd9XjvYKE&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "o",
+                                    "width": 130,
+                                    "url": "https://sun7-16.userapi.com/impg/GSu_8N1-za_yiJLdoAMaXr1a4lCDf3yvm7Zs9Q/YobDZq_VZN0.jpg?size=130x130&quality=95&sign=7374b86e56a04dd61871287f037bf8a3&c_uniq_tag=acB7LQisPqZvOFkq9oqO41PDulFu_I9Tl-2M5fz1JHE&type=album"
+                                },
+                                {
+                                    "height": 200,
+                                    "type": "p",
+                                    "width": 200,
+                                    "url": "https://sun7-16.userapi.com/impg/GSu_8N1-za_yiJLdoAMaXr1a4lCDf3yvm7Zs9Q/YobDZq_VZN0.jpg?size=200x200&quality=95&sign=4a600a8babefccc485876d51382f1c2a&c_uniq_tag=qJmlJvqjInf-IuJzFTHPm3X6uphwACZJVY-tmYJos1Y&type=album"
+                                },
+                                {
+                                    "height": 320,
+                                    "type": "q",
+                                    "width": 320,
+                                    "url": "https://sun7-16.userapi.com/impg/GSu_8N1-za_yiJLdoAMaXr1a4lCDf3yvm7Zs9Q/YobDZq_VZN0.jpg?size=320x320&quality=95&sign=081cb7cbec1c89ee2c64965f3e514341&c_uniq_tag=1ODJq5KXaVB0pkh9pUUR00yc0383g7198TJ41jo9Gig&type=album"
+                                },
+                                {
+                                    "height": 510,
+                                    "type": "r",
+                                    "width": 510,
+                                    "url": "https://sun7-16.userapi.com/impg/GSu_8N1-za_yiJLdoAMaXr1a4lCDf3yvm7Zs9Q/YobDZq_VZN0.jpg?size=510x510&quality=95&sign=b888387b1b05dcc723e7a479a55e7d24&c_uniq_tag=91jMGWy8mSuEP3cfOSJ7dpN9Y91_VX2Hd0Cu69f_eOE&type=album"
+                                }
+                            ],
+                            "text": "",
+                            "user_id": 100,
+                            "has_tags": false
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "can_post": 1,
+                    "count": 7,
+                    "groups_can_post": true
+                },
+                "likes": {
+                    "can_like": 1,
+                    "count": 7,
+                    "user_likes": 0,
+                    "can_publish": 1
+                },
+                "reposts": {
+                    "count": 1,
+                    "user_reposted": 0
+                },
+                "views": {
+                    "count": 2483
+                },
+                "donut": {
+                    "is_donut": false
+                },
+                "short_text_rate": 0.8,
+                "hash": "E0pU7I4Zb2RbAZyNVQ"
+            },
+            {
+                "id": 154944,
+                "from_id": -149861500,
+                "owner_id": -149861500,
+                "date": 1666877400,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Мы с вами уже познакомились с историей молодой искательницы приключений – Волнны. Самое время узнать, на что же она способна! 💛\n\nhttps://vk.com/@ageofmagicgame-volnna-umeniya-geroya\n\nВолнна – это действительно интересный Герой ☺ Она помогает команде нанесением урона и снижает боевую эффективность противников. \n\nКак вы оцениваете умения нового Героя? 😎 В состав какого Отряда вы добавите её?\nПоделитесь с нами своим мнением в комментариях! 👇🏻\n \n#AgeOfMagic #Hero #rpg #games #play",
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1666765076,
+                            "id": 457261930,
+                            "owner_id": -149861500,
+                            "access_key": "d3c0a77162a252d5b7",
+                            "sizes": [
+                                {
+                                    "height": 75,
+                                    "type": "s",
+                                    "width": 75,
+                                    "url": "https://sun7-7.userapi.com/impg/Jr6-Y3I-cP0xsiiZAzRHk229bLq8_nhnaoURog/irEMh2qwPq4.jpg?size=75x75&quality=95&sign=61a73a963cdd93a9bfbe6652108a91c6&c_uniq_tag=8Ljh3C4QYQ5nWRY_Ozj1R0N2iOcBMbhI1KKvEVjHTzI&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "m",
+                                    "width": 130,
+                                    "url": "https://sun7-7.userapi.com/impg/Jr6-Y3I-cP0xsiiZAzRHk229bLq8_nhnaoURog/irEMh2qwPq4.jpg?size=130x130&quality=95&sign=b54a0a83fe93a75c73642ec2b23b60d5&c_uniq_tag=yF2gPJm8YTqnwYXtkFYNzQVPUf6Oyuxlraeqcic5TM4&type=album"
+                                },
+                                {
+                                    "height": 604,
+                                    "type": "x",
+                                    "width": 604,
+                                    "url": "https://sun7-7.userapi.com/impg/Jr6-Y3I-cP0xsiiZAzRHk229bLq8_nhnaoURog/irEMh2qwPq4.jpg?size=604x604&quality=95&sign=d4bf4abbf688f238a45b6f9813ca2968&c_uniq_tag=P5y0dDII_UCOZNT9dVHKDuzW0twiqnRfLjc0YNOo5hY&type=album"
+                                },
+                                {
+                                    "height": 807,
+                                    "type": "y",
+                                    "width": 807,
+                                    "url": "https://sun7-7.userapi.com/impg/Jr6-Y3I-cP0xsiiZAzRHk229bLq8_nhnaoURog/irEMh2qwPq4.jpg?size=807x807&quality=95&sign=2f5aea42f4c51cfed5d675980ebf3848&c_uniq_tag=9aHmva_07iL-EEBHuFz1l7d1npoE7M3IK5_OoDKj8Ns&type=album"
+                                },
+                                {
+                                    "height": 1280,
+                                    "type": "z",
+                                    "width": 1280,
+                                    "url": "https://sun7-7.userapi.com/impg/Jr6-Y3I-cP0xsiiZAzRHk229bLq8_nhnaoURog/irEMh2qwPq4.jpg?size=1280x1280&quality=95&sign=e5f935f61e839a517ef2ffb3ccaddea2&c_uniq_tag=ba1S50xuu-Xzlnx4Gg2iK-_gKWgXVJkrmTqz4PnLL6Q&type=album"
+                                },
+                                {
+                                    "height": 2500,
+                                    "type": "w",
+                                    "width": 2500,
+                                    "url": "https://sun7-7.userapi.com/impg/Jr6-Y3I-cP0xsiiZAzRHk229bLq8_nhnaoURog/irEMh2qwPq4.jpg?size=2500x2500&quality=95&sign=3d71f5406519b3dd6a9c3dd6189c8f3e&c_uniq_tag=qapaw63LzNCGOd2R52wfniUqYLO7lkii-ugNQe-839Y&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "o",
+                                    "width": 130,
+                                    "url": "https://sun7-7.userapi.com/impg/Jr6-Y3I-cP0xsiiZAzRHk229bLq8_nhnaoURog/irEMh2qwPq4.jpg?size=130x130&quality=95&sign=b54a0a83fe93a75c73642ec2b23b60d5&c_uniq_tag=yF2gPJm8YTqnwYXtkFYNzQVPUf6Oyuxlraeqcic5TM4&type=album"
+                                },
+                                {
+                                    "height": 200,
+                                    "type": "p",
+                                    "width": 200,
+                                    "url": "https://sun7-7.userapi.com/impg/Jr6-Y3I-cP0xsiiZAzRHk229bLq8_nhnaoURog/irEMh2qwPq4.jpg?size=200x200&quality=95&sign=405f7c3ac937e894f0f3996af686713b&c_uniq_tag=dJ1jSioF8s4V9tS4oGZyzyHdM4qeoCPeE6UG4GH3BQI&type=album"
+                                },
+                                {
+                                    "height": 320,
+                                    "type": "q",
+                                    "width": 320,
+                                    "url": "https://sun7-7.userapi.com/impg/Jr6-Y3I-cP0xsiiZAzRHk229bLq8_nhnaoURog/irEMh2qwPq4.jpg?size=320x320&quality=95&sign=0ec05e8b245977440573242e6b61fd75&c_uniq_tag=D-7qLE0hP8t34m6daLIzdwoq-how1dYOw85_RDEKVyA&type=album"
+                                },
+                                {
+                                    "height": 510,
+                                    "type": "r",
+                                    "width": 510,
+                                    "url": "https://sun7-7.userapi.com/impg/Jr6-Y3I-cP0xsiiZAzRHk229bLq8_nhnaoURog/irEMh2qwPq4.jpg?size=510x510&quality=95&sign=4b607c7aa835388ff564f240c04cf4b8&c_uniq_tag=t-h3W9KYz5XdenQ5xdsHHv9UfvCODVKbphFW0DtDtD4&type=album"
+                                }
+                            ],
+                            "text": "",
+                            "user_id": 100,
+                            "has_tags": false
+                        }
+                    },
+                    {
+                        "type": "link",
+                        "link": {
+                            "url": "https://m.vk.com/@ageofmagicgame-volnna-umeniya-geroya",
+                            "button": {
+                                "action": {
+                                    "type": "open_url",
+                                    "target": "internal",
+                                    "url": "https://m.vk.com/@ageofmagicgame-volnna-umeniya-geroya"
+                                },
+                                "title": "Read"
+                            },
+                            "description": "Article",
+                            "photo": {
+                                "album_id": -66,
+                                "date": 1666678527,
+                                "id": 457261911,
+                                "owner_id": -149861500,
+                                "sizes": [
+                                    {
+                                        "height": 97,
+                                        "type": "m",
+                                        "width": 130,
+                                        "url": "https://sun9-49.userapi.com/impg/NMGfsMgbwTDU18xFuMUpHE7KV55FStEo_Df3Tw/lr60N115xys.jpg?size=130x97&quality=96&sign=475aa9c315a3834626b020ce0c950513&c_uniq_tag=_3-m0W8S5qtdQHYWWlnUa9x5zG3dbY-KqNIEv-y3aDs&type=album"
+                                    },
+                                    {
+                                        "height": 97,
+                                        "type": "o",
+                                        "width": 130,
+                                        "url": "https://sun9-49.userapi.com/impg/NMGfsMgbwTDU18xFuMUpHE7KV55FStEo_Df3Tw/lr60N115xys.jpg?size=130x97&quality=96&sign=475aa9c315a3834626b020ce0c950513&c_uniq_tag=_3-m0W8S5qtdQHYWWlnUa9x5zG3dbY-KqNIEv-y3aDs&type=album"
+                                    },
+                                    {
+                                        "height": 150,
+                                        "type": "p",
+                                        "width": 200,
+                                        "url": "https://sun9-49.userapi.com/impg/NMGfsMgbwTDU18xFuMUpHE7KV55FStEo_Df3Tw/lr60N115xys.jpg?size=200x150&quality=96&sign=e2e440c9d1df38e6ad66526e42fe8f60&c_uniq_tag=agkyEHdcoDFcZbd3ujdE8yYpM0j8oGJQPa3G0ndOX9I&type=album"
+                                    },
+                                    {
+                                        "height": 240,
+                                        "type": "q",
+                                        "width": 320,
+                                        "url": "https://sun9-49.userapi.com/impg/NMGfsMgbwTDU18xFuMUpHE7KV55FStEo_Df3Tw/lr60N115xys.jpg?size=320x240&quality=96&sign=c7f4dcfd2f77a3b0dac9ca5ba7a679c5&c_uniq_tag=PBMa-C2JMjDlppwJ_GwoCnVFfUtNKBL_EzJVLE6RVXs&type=album"
+                                    },
+                                    {
+                                        "height": 382,
+                                        "type": "r",
+                                        "width": 510,
+                                        "url": "https://sun9-49.userapi.com/impg/NMGfsMgbwTDU18xFuMUpHE7KV55FStEo_Df3Tw/lr60N115xys.jpg?size=510x382&quality=96&sign=b185c45e65f343cdd61a49d6fc1a73ee&c_uniq_tag=74qRNA0VEMdwYXG_UKhKcYqLcJFXFH4gNYixgypIjmo&type=album"
+                                    },
+                                    {
+                                        "height": 56,
+                                        "type": "s",
+                                        "width": 75,
+                                        "url": "https://sun9-49.userapi.com/impg/NMGfsMgbwTDU18xFuMUpHE7KV55FStEo_Df3Tw/lr60N115xys.jpg?size=75x56&quality=96&sign=823e73586597939cc174e04a8343fbff&c_uniq_tag=Pim7UrmYA2ydIxGFZPfB_DRbBFTZspIznBtNzEsmDJY&type=album"
+                                    },
+                                    {
+                                        "height": 1920,
+                                        "type": "w",
+                                        "width": 2560,
+                                        "url": "https://sun9-49.userapi.com/impg/NMGfsMgbwTDU18xFuMUpHE7KV55FStEo_Df3Tw/lr60N115xys.jpg?size=2560x1920&quality=96&sign=4eed200e493241235bf5b31c20671702&c_uniq_tag=WnGe2d-MUgZSwf5O-nNIXTh3fYhrUgeWQdMXBLFfVEE&type=album"
+                                    },
+                                    {
+                                        "height": 453,
+                                        "type": "x",
+                                        "width": 604,
+                                        "url": "https://sun9-49.userapi.com/impg/NMGfsMgbwTDU18xFuMUpHE7KV55FStEo_Df3Tw/lr60N115xys.jpg?size=604x453&quality=96&sign=2b890c90f5d999a960a929fe1004d66a&c_uniq_tag=xxi6Av6o5mf8t4w-JFDshfUw1apq5dnM-oXzvgCPxm0&type=album"
+                                    },
+                                    {
+                                        "height": 605,
+                                        "type": "y",
+                                        "width": 807,
+                                        "url": "https://sun9-49.userapi.com/impg/NMGfsMgbwTDU18xFuMUpHE7KV55FStEo_Df3Tw/lr60N115xys.jpg?size=807x605&quality=96&sign=4654470ead813a0244c3dc181f5dd0ee&c_uniq_tag=jRI9mZiZXZQBuYeWKcVOa2NrP6xloNdNsPpsBCsVX_A&type=album"
+                                    },
+                                    {
+                                        "height": 960,
+                                        "type": "z",
+                                        "width": 1280,
+                                        "url": "https://sun9-49.userapi.com/impg/NMGfsMgbwTDU18xFuMUpHE7KV55FStEo_Df3Tw/lr60N115xys.jpg?size=1280x960&quality=96&sign=a0c245e245dcb853c450925ae7692b33&c_uniq_tag=glGgxPNqAa_73sd6VDBvdkgbNntv7KHIbrrnZnC-oQg&type=album"
+                                    }
+                                ],
+                                "text": "",
+                                "user_id": 100,
+                                "has_tags": false
+                            },
+                            "title": "Волнна: Умения Героя"
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "can_post": 1,
+                    "count": 12,
+                    "groups_can_post": true
+                },
+                "likes": {
+                    "can_like": 1,
+                    "count": 18,
+                    "user_likes": 0,
+                    "can_publish": 1
+                },
+                "reposts": {
+                    "count": 2,
+                    "user_reposted": 0
+                },
+                "views": {
+                    "count": 5159
+                },
+                "donut": {
+                    "is_donut": false
+                },
+                "short_text_rate": 0.8,
+                "carousel_offset": 0,
+                "hash": "ctAq9GleXDncPbqYdw"
+            },
+            {
+                "id": 154935,
+                "from_id": -149861500,
+                "owner_id": -149861500,
+                "date": 1666868400,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Событие \"Кровные Узы\" завершено. Надеемся, что вам понравилась сюжетная линия нового Героя – Трииш! 🤗\n \nРасскажите нам в комментариях, что запомнилось вам больше всего? 👇🏻 Впечатлила ли вас история этого Героя? 😌\n \n#AgeOfMagic #Видео #История #Герой #Игра #rpg",
+                "attachments": [
+                    {
+                        "type": "video",
+                        "video": {
+                            "access_key": "4e80981b4ad294e6f7",
+                            "can_comment": 0,
+                            "can_like": 1,
+                            "can_repost": 1,
+                            "can_subscribe": 1,
+                            "can_add_to_faves": 0,
+                            "can_add": 1,
+                            "comments": 0,
+                            "date": 1666699034,
+                            "description": "Трииш — мощный стрелок фракции Темных Эльфов. Трииш была доступна в рамках уникального события «Кровные Узы»\n\n#ageofmagic #игры #герой #обзор #РПГ #рпгигры #играй #история",
+                            "duration": 120,
+                            "image": [
+                                {
+                                    "url": "https://sun7-7.userapi.com/BUwFSBkKVpCpUcrAtnDHUtw5m4fJg0x04dqKlg/DJCA3RyqSUs.jpg",
+                                    "width": 130,
+                                    "height": 96,
+                                    "with_padding": 1
+                                },
+                                {
+                                    "url": "https://sun7-13.userapi.com/K0AfcCw6xahGtUte8gyDRk-h5wLqpgWA8si5mg/yqDPmoZH4K0.jpg",
+                                    "width": 160,
+                                    "height": 120,
+                                    "with_padding": 1
+                                },
+                                {
+                                    "url": "https://sun7-7.userapi.com/0w0_MNnkLRyzMOjd9GPOiNh8KO-gczc1Jg3uGg/e22OHrFmmEk.jpg",
+                                    "width": 320,
+                                    "height": 240,
+                                    "with_padding": 1
+                                },
+                                {
+                                    "url": "https://sun7-16.userapi.com/2TGKZGtgQJ1TmOcjKNFNvOz4wUNnjUPLfx_L4Q/GN8tnZNQY5o.jpg",
+                                    "width": 800,
+                                    "height": 450,
+                                    "with_padding": 1
+                                },
+                                {
+                                    "url": "https://sun7-15.userapi.com/oJVii65kBlpbd3y7buVZyb_6l4HDJKwYULzryg/nHQDwyrAH0k.jpg",
+                                    "width": 1280,
+                                    "height": 720
+                                },
+                                {
+                                    "url": "https://sun7-6.userapi.com/5dy7wj-ItawLlv5LhG8tTOiEDsv3cE-ir1PRwA/4O3xuV8vDnM.jpg",
+                                    "width": 320,
+                                    "height": 180
+                                },
+                                {
+                                    "url": "https://sun7-13.userapi.com/_BWsJUlFMedsgazm_oAZ4RL-ep0SLZnBLcmCfQ/lvEWjYw7VKc.jpg",
+                                    "width": 720,
+                                    "height": 405
+                                },
+                                {
+                                    "url": "https://sun7-13.userapi.com/fc1TlLvh_pyNoAgbS0zk_VkgnxrbGBABZUu3Vw/xnp8Ez_l89U.jpg",
+                                    "width": 1024,
+                                    "height": 576
+                                },
+                                {
+                                    "url": "https://sun7-9.userapi.com/j9ZjDD4ZDXu7NSiVmIQbZAkQIvcf670EU9XnIQ/wiXRWqIoSLg.jpg",
+                                    "width": 4096,
+                                    "height": 2304
+                                }
+                            ],
+                            "first_frame": [
+                                {
+                                    "url": "https://i.mycdn.me/getVideoPreview?id=3194176670383&idx=0&type=39&tkn=LKUW1H2P88k9H0bLFEPvt2QQwms&fn=vid_f",
+                                    "width": 720,
+                                    "height": 405
+                                },
+                                {
+                                    "url": "https://i.mycdn.me/getVideoPreview?id=3194176670383&idx=0&type=39&tkn=LKUW1H2P88k9H0bLFEPvt2QQwms&fn=vid_md",
+                                    "width": 480,
+                                    "height": 270
+                                },
+                                {
+                                    "url": "https://i.mycdn.me/getVideoPreview?id=3194176670383&idx=0&type=39&tkn=LKUW1H2P88k9H0bLFEPvt2QQwms&fn=vid_d",
+                                    "width": 240,
+                                    "height": 135
+                                },
+                                {
+                                    "url": "https://i.mycdn.me/getVideoPreview?id=3194176670383&idx=0&type=39&tkn=LKUW1H2P88k9H0bLFEPvt2QQwms&fn=vid_sm",
+                                    "width": 128,
+                                    "height": 72
+                                },
+                                {
+                                    "url": "https://i.mycdn.me/getVideoPreview?id=3194176670383&idx=0&type=39&tkn=LKUW1H2P88k9H0bLFEPvt2QQwms",
+                                    "width": 1280,
+                                    "height": 720
+                                },
+                                {
+                                    "url": "https://i.mycdn.me/getVideoPreview?id=3194176670383&idx=0&type=39&tkn=LKUW1H2P88k9H0bLFEPvt2QQwms&fn=vid_h",
+                                    "width": 960,
+                                    "height": 540
+                                },
+                                {
+                                    "url": "https://i.mycdn.me/getVideoPreview?id=3194176670383&idx=0&type=39&tkn=LKUW1H2P88k9H0bLFEPvt2QQwms",
+                                    "width": 1280,
+                                    "height": 720
+                                }
+                            ],
+                            "width": 1920,
+                            "height": 1080,
+                            "id": 456240293,
+                            "owner_id": -149861500,
+                            "title": "Трииш: Сюжетная линия",
+                            "track_code": "video_56ece9faFPDaAn1SFVMHTLTKi9yODsXkn40r_W81Gj1KcjOTm2Eu3MECfFsdOgdMsMPn3bs499CvvxLOa0J7USZyIr6qVQ",
+                            "type": "video",
+                            "views": 2576
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "can_post": 1,
+                    "count": 4,
+                    "groups_can_post": true
+                },
+                "likes": {
+                    "can_like": 1,
+                    "count": 10,
+                    "user_likes": 0,
+                    "can_publish": 1
+                },
+                "reposts": {
+                    "count": 0,
+                    "user_reposted": 0
+                },
+                "views": {
+                    "count": 2691
+                },
+                "donut": {
+                    "is_donut": false
+                },
+                "short_text_rate": 0.8,
+                "hash": "QZTRl5kfrlz-zGeNVA"
+            },
+            {
+                "id": 154921,
+                "from_id": -149861500,
+                "owner_id": -149861500,
+                "date": 1666865479,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Дорогие Игроки! 💜\n \nСобытие Ужастня уже началось! 🎃 Чтобы принять в нём участие, поспешите установить обновление 2.1.\n✅ Оно уже доступно для скачивания в AppStore и Google Play. \n \nЖелаем вам счастливого Ужастня! 🤗\n\n#AgeOfMagic #событие #хэллоуин",
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1666865479,
+                            "id": 457261951,
+                            "owner_id": -149861500,
+                            "access_key": "b06a15062c85b69d2b",
+                            "post_id": 154921,
+                            "sizes": [
+                                {
+                                    "height": 75,
+                                    "type": "s",
+                                    "width": 75,
+                                    "url": "https://sun7-6.userapi.com/impg/iHn3wvTiBNFiswTrnFMvPU5ZVIsv6czabRmxug/NMswMNRQL3A.jpg?size=75x75&quality=95&sign=40118f886e08cf2608981486e2b9f32f&c_uniq_tag=G5lfYm_zJ5789k4eNxDjO773JEgKayEMYQB63v7DROQ&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "m",
+                                    "width": 130,
+                                    "url": "https://sun7-6.userapi.com/impg/iHn3wvTiBNFiswTrnFMvPU5ZVIsv6czabRmxug/NMswMNRQL3A.jpg?size=130x130&quality=95&sign=c5a618b7329225d005bf3348dde899b8&c_uniq_tag=0Ppq3Thxt2mk4PjIfYboKqDSMkaduAto7kVNm12adUw&type=album"
+                                },
+                                {
+                                    "height": 604,
+                                    "type": "x",
+                                    "width": 604,
+                                    "url": "https://sun7-6.userapi.com/impg/iHn3wvTiBNFiswTrnFMvPU5ZVIsv6czabRmxug/NMswMNRQL3A.jpg?size=604x604&quality=95&sign=9434cea4e81636b21d5b78c59967279f&c_uniq_tag=YV96lP1IpYVKkmq9Pn0HBDf3asEEZctNtpNYm_oWJts&type=album"
+                                },
+                                {
+                                    "height": 807,
+                                    "type": "y",
+                                    "width": 807,
+                                    "url": "https://sun7-6.userapi.com/impg/iHn3wvTiBNFiswTrnFMvPU5ZVIsv6czabRmxug/NMswMNRQL3A.jpg?size=807x807&quality=95&sign=b5cefdb380a17b2da94707da92c09192&c_uniq_tag=AfbF7-br1976kXiyWxMfcQxS5ks_vC5H2GQHMKWQjIE&type=album"
+                                },
+                                {
+                                    "height": 1080,
+                                    "type": "z",
+                                    "width": 1080,
+                                    "url": "https://sun7-6.userapi.com/impg/iHn3wvTiBNFiswTrnFMvPU5ZVIsv6czabRmxug/NMswMNRQL3A.jpg?size=1080x1080&quality=95&sign=501fea2f3c0bd7bb9a3b81186f42e1f6&c_uniq_tag=DTGJ9ne5b9cfZLaADL6Jw1VxD6KC9EEk8MkW4nNXlpI&type=album"
+                                },
+                                {
+                                    "height": 130,
+                                    "type": "o",
+                                    "width": 130,
+                                    "url": "https://sun7-6.userapi.com/impg/iHn3wvTiBNFiswTrnFMvPU5ZVIsv6czabRmxug/NMswMNRQL3A.jpg?size=130x130&quality=95&sign=c5a618b7329225d005bf3348dde899b8&c_uniq_tag=0Ppq3Thxt2mk4PjIfYboKqDSMkaduAto7kVNm12adUw&type=album"
+                                },
+                                {
+                                    "height": 200,
+                                    "type": "p",
+                                    "width": 200,
+                                    "url": "https://sun7-6.userapi.com/impg/iHn3wvTiBNFiswTrnFMvPU5ZVIsv6czabRmxug/NMswMNRQL3A.jpg?size=200x200&quality=95&sign=5f07d959235ef99450c392e991dba8ed&c_uniq_tag=nYdIfSfJKJDEgjogqUKWGT6qYSnW6K7HNcKcPSgtojQ&type=album"
+                                },
+                                {
+                                    "height": 320,
+                                    "type": "q",
+                                    "width": 320,
+                                    "url": "https://sun7-6.userapi.com/impg/iHn3wvTiBNFiswTrnFMvPU5ZVIsv6czabRmxug/NMswMNRQL3A.jpg?size=320x320&quality=95&sign=97de86290889733dc4e4e6270088252a&c_uniq_tag=mHs7SXW9R1w2fGDWVp5zXgLGLBjZqpJ6TWzWCSWy2BA&type=album"
+                                },
+                                {
+                                    "height": 510,
+                                    "type": "r",
+                                    "width": 510,
+                                    "url": "https://sun7-6.userapi.com/impg/iHn3wvTiBNFiswTrnFMvPU5ZVIsv6czabRmxug/NMswMNRQL3A.jpg?size=510x510&quality=95&sign=e4ddab4d16298d8311b509a32b634422&c_uniq_tag=_SW3MGJ8rbwx0PXInNAUGwVyTvUAb4kGo607d6sxoWE&type=album"
+                                }
+                            ],
+                            "text": "",
+                            "user_id": 100,
+                            "has_tags": false
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "can_post": 1,
+                    "count": 23,
+                    "groups_can_post": true
+                },
+                "likes": {
+                    "can_like": 1,
+                    "count": 14,
+                    "user_likes": 0,
+                    "can_publish": 1
+                },
+                "reposts": {
+                    "count": 0,
+                    "user_reposted": 0
+                },
+                "views": {
+                    "count": 3090
+                },
+                "donut": {
+                    "is_donut": false
+                },
+                "short_text_rate": 0.8,
+                "hash": "Vq_rP5IuOZ2He--5ag"
+            },
+            {
+                "id": 154865,
+                "from_id": -149861500,
+                "owner_id": -149861500,
+                "date": 1666778403,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Обновление 2.1. уже прилетело на ваши устройства! 🤩\n\nА давайте обновим не только игру, но и обои на том устройстве, на котором вы играете? 🤗\n \nСтремительная искательница приключений, Волнна, с радостью украсит ваше устройство! 💛\n \nСкачивайте подходящий для вас формат по ссылке и украсьте свой рабочий стол красочным изображением! 👇🏻\n\nhttps://www.dropbox.com/sh/dxh5rbq0yz8899d/AABwwvA2HW81Wze4f-_Zmu3Na?dl=0\n \n#AgeOfMagic #Обои #Обновление #Игра #rpg",
+                "attachments": [
+                    {
+                        "type": "video",
+                        "video": {
+                            "access_key": "c5f1e7cb25b632117c",
+                            "can_comment": 0,
+                            "can_like": 1,
+                            "can_repost": 1,
+                            "can_subscribe": 1,
+                            "can_add_to_faves": 0,
+                            "can_add": 1,
+                            "comments": 0,
+                            "date": 1666696677,
+                            "description": "Встречайте обновление 2.0. update в Age of Magic!\n\n- Ужастень в Age of Magic!\n- Новый Герой – Волнна\n- Героический Пропуск\n- Новые точки получения редких Героев\n\n#ageofmagic #игры #герой #обзор #РПГ #рпгигры #играй #обновление",
+                            "duration": 75,
+                            "image": [
+                                {
+                                    "url": "https://sun7-15.userapi.com/hthiOiTS7yb5IAkxb2aGLjWZFvgigtsJlCA63A/z70PNCh47yM.jpg",
+                                    "width": 130,
+                                    "height": 96,
+                                    "with_padding": 1
+                                },
+                                {
+                                    "url": "https://sun7-8.userapi.com/Oad0e6EDt-0WwSdjx533dA1wJud1lyBQhWoO9g/Z689MmKS8NU.jpg",
+                                    "width": 160,
+                                    "height": 120,
+                                    "with_padding": 1
+                                },
+                                {
+                                    "url": "https://sun7-9.userapi.com/KQa2E7F-ijjKSzLHwgVrYup30shCvpYmoqqX8g/59QFD5EV5ZA.jpg",
+                                    "width": 320,
+                                    "height": 240,
+                                    "with_padding": 1
+                                },
+                                {
+                                    "url": "https://sun7-7.userapi.com/cZrr6do1zvk7bY3YRwxuHcaFZOYIBWfjjpTT5g/DV4bZN-R9Uw.jpg",
+                                    "width": 800,
+                                    "height": 450,
+                                    "with_padding": 1
+                                },
+                                {
+                                    "url": "https://sun7-6.userapi.com/YzrT8P3z5S2Hgj07NBWSHUn2bgAmyLjtG17f3Q/-xoJg2hAQ-U.jpg",
+                                    "width": 1280,
+                                    "height": 720
+                                },
+                                {
+                                    "url": "https://sun7-7.userapi.com/BkcugJfQu18I9CqcgVbv79payU-6sFBVOAd35w/iNjeycUM3DI.jpg",
+                                    "width": 320,
+                                    "height": 180
+                                },
+                                {
+                                    "url": "https://sun7-15.userapi.com/3lQbJCbMTt_jBo2Fovx4fXs8K_biHfTAB_PnJw/VzkLfGYjyYo.jpg",
+                                    "width": 720,
+                                    "height": 405
+                                },
+                                {
+                                    "url": "https://sun7-9.userapi.com/7Ql-GRyd_SlI80NTzfO7biLIZUh8nAjKxTFnxg/xp1tXGsGYcU.jpg",
+                                    "width": 1024,
+                                    "height": 576
+                                },
+                                {
+                                    "url": "https://sun7-13.userapi.com/HDu9w6B6df6rrk0AEXyVzuAF07_cR_05ikHRyA/UJXxS2MdpqI.jpg",
+                                    "width": 4096,
+                                    "height": 2304
+                                }
+                            ],
+                            "first_frame": [
+                                {
+                                    "url": "https://i.mycdn.me/getVideoPreview?id=2930361698911&idx=0&type=39&tkn=8vyF9Iej0nUPHyDbQTDdF2RL5zs&fn=vid_f",
+                                    "width": 720,
+                                    "height": 405
+                                },
+                                {
+                                    "url": "https://i.mycdn.me/getVideoPreview?id=2930361698911&idx=0&type=39&tkn=8vyF9Iej0nUPHyDbQTDdF2RL5zs&fn=vid_md",
+                                    "width": 480,
+                                    "height": 270
+                                },
+                                {
+                                    "url": "https://i.mycdn.me/getVideoPreview?id=2930361698911&idx=0&type=39&tkn=8vyF9Iej0nUPHyDbQTDdF2RL5zs&fn=vid_d",
+                                    "width": 240,
+                                    "height": 135
+                                },
+                                {
+                                    "url": "https://i.mycdn.me/getVideoPreview?id=2930361698911&idx=0&type=39&tkn=8vyF9Iej0nUPHyDbQTDdF2RL5zs&fn=vid_sm",
+                                    "width": 128,
+                                    "height": 72
+                                },
+                                {
+                                    "url": "https://i.mycdn.me/getVideoPreview?id=2930361698911&idx=0&type=39&tkn=8vyF9Iej0nUPHyDbQTDdF2RL5zs",
+                                    "width": 1280,
+                                    "height": 720
+                                },
+                                {
+                                    "url": "https://i.mycdn.me/getVideoPreview?id=2930361698911&idx=0&type=39&tkn=8vyF9Iej0nUPHyDbQTDdF2RL5zs&fn=vid_h",
+                                    "width": 960,
+                                    "height": 540
+                                },
+                                {
+                                    "url": "https://i.mycdn.me/getVideoPreview?id=2930361698911&idx=0&type=39&tkn=8vyF9Iej0nUPHyDbQTDdF2RL5zs",
+                                    "width": 1280,
+                                    "height": 720
+                                }
+                            ],
+                            "width": 1920,
+                            "height": 1080,
+                            "id": 456240292,
+                            "owner_id": -149861500,
+                            "title": "Обзор обновления 2.1.",
+                            "track_code": "video_27f83e55mwwOrJmV2zaeomV5f0JjSgMBlzOWJhAA7IMjUMw38gOhIBWsmJzTX56iYXEWQ1Z8MTWnAa8UFHeN709Q3RrDNw",
+                            "type": "video",
+                            "views": 4423
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "can_post": 1,
+                    "count": 28,
+                    "groups_can_post": true
+                },
+                "likes": {
+                    "can_like": 1,
+                    "count": 20,
+                    "user_likes": 0,
+                    "can_publish": 1
+                },
+                "reposts": {
+                    "count": 1,
+                    "user_reposted": 0
+                },
+                "views": {
+                    "count": 4217
+                },
+                "donut": {
+                    "is_donut": false
+                },
+                "short_text_rate": 0.8,
+                "hash": "6ErJlSuXeUQf0I8gug"
+            }
+        ]
+    }
+}
